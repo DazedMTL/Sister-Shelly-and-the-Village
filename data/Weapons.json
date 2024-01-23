@@ -1,0 +1,6488 @@
+[
+    null,
+    {
+        "id": 1,
+        "animationId": 123,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 2160,
+        "name": "ショートソード",
+        "note": "\n<rank:1>\n<en:Short Sword>\n<icon:0>",
+        "params": [
+            5,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 25,
+        "wtypeId": 1
+    },
+    {
+        "id": 2,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.08
+            }
+        ],
+        "iconIndex": 2161,
+        "name": "ロングソード",
+        "note": "\n<rank:2>\n<en:Long Sword>\n<icon:1>",
+        "params": [
+            10,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 80,
+        "wtypeId": 2
+    },
+    {
+        "id": 3,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.12
+            }
+        ],
+        "iconIndex": 2162,
+        "name": "サーベル",
+        "note": "\n<rank:3>\n<en:Saber>\n<icon:2>",
+        "params": [
+            15,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 150,
+        "wtypeId": 2
+    },
+    {
+        "id": 4,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.16
+            }
+        ],
+        "iconIndex": 2163,
+        "name": "バスタードソード",
+        "note": "\n<rank:4>\n<icon:3>\n<en:Bastard sword>",
+        "params": [
+            23,
+            0,
+            56,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 350,
+        "wtypeId": 2
+    },
+    {
+        "id": 5,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.2
+            }
+        ],
+        "iconIndex": 2164,
+        "name": "エルヴンソード",
+        "note": "\n<rank:5>\n<icon:4>\n<en:Elven Sword>",
+        "params": [
+            33,
+            0,
+            72,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 600,
+        "wtypeId": 2
+    },
+    {
+        "id": 6,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.24
+            }
+        ],
+        "iconIndex": 2165,
+        "name": "カタナ",
+        "note": "\n<rank:6>\n<icon:5>\n<en:Katana>",
+        "params": [
+            47,
+            0,
+            90,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000,
+        "wtypeId": 2
+    },
+    {
+        "id": 7,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.28
+            }
+        ],
+        "iconIndex": 2166,
+        "name": "悪魔の剣",
+        "note": "\n<rank:7>\n<icon:6>\n\n<en:Devil's Sword>",
+        "params": [
+            75,
+            0,
+            110,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1600,
+        "wtypeId": 2
+    },
+    {
+        "id": 8,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.32
+            }
+        ],
+        "iconIndex": 2167,
+        "name": "ドラゴンスレイヤー",
+        "note": "\n<rank:8>\n<icon:7>\n<en:Dragon Slayer>",
+        "params": [
+            95,
+            0,
+            132,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2200,
+        "wtypeId": 2
+    },
+    {
+        "id": 9,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            }
+        ],
+        "iconIndex": 2168,
+        "name": "勇者の剣",
+        "note": "\n<rank:9>\n<icon:8>\n<en:Hero's Sword>",
+        "params": [
+            115,
+            0,
+            160,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000,
+        "wtypeId": 2
+    },
+    {
+        "id": 10,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.4
+            }
+        ],
+        "iconIndex": 1728,
+        "name": "",
+        "note": "\n<rank:10>",
+        "params": [
+            135,
+            0,
+            210,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2500,
+        "wtypeId": 2
+    },
+    {
+        "id": 11,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 12,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.26
+            }
+        ],
+        "iconIndex": 2172,
+        "name": "グランドソード",
+        "note": "\n<rank:6>\n<icon:13>\n<en:Ground Sword>",
+        "params": [
+            50,
+            0,
+            93,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000,
+        "wtypeId": 2
+    },
+    {
+        "id": 13,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.3
+            }
+        ],
+        "iconIndex": 2172,
+        "name": "グランドソード",
+        "note": "\n<rank:7>\n<icon:13>\n<en:Ground Sword>",
+        "params": [
+            78,
+            0,
+            113,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1600,
+        "wtypeId": 2
+    },
+    {
+        "id": 14,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.34
+            }
+        ],
+        "iconIndex": 2167,
+        "name": "グランドソード",
+        "note": "\n<rank:8>\n<icon:13>\n<en:Ground Sword>",
+        "params": [
+            98,
+            0,
+            135,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2200,
+        "wtypeId": 2
+    },
+    {
+        "id": 15,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.42
+            }
+        ],
+        "iconIndex": 2172,
+        "name": "グランドソード",
+        "note": "\n<rank:10>\n<icon:10>\n<en:Ground Sword>",
+        "params": [
+            120,
+            0,
+            150,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000,
+        "wtypeId": 2
+    },
+    {
+        "id": 16,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 17,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 18,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 19,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.26
+            }
+        ],
+        "iconIndex": 2171,
+        "name": "ダークカリバー",
+        "note": "\n<rank:6>\n<icon:12>\n<en:Dark Caliber>",
+        "params": [
+            50,
+            0,
+            93,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000,
+        "wtypeId": 2
+    },
+    {
+        "id": 20,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.3
+            }
+        ],
+        "iconIndex": 2172,
+        "name": "ダークカリバー",
+        "note": "\n<rank:7>\n<icon:12>\n<en:Dark Caliber>",
+        "params": [
+            78,
+            0,
+            113,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1600,
+        "wtypeId": 2
+    },
+    {
+        "id": 21,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.34
+            }
+        ],
+        "iconIndex": 2167,
+        "name": "ダークカリバー",
+        "note": "\n<rank:8>\n<icon:12>\n<en:Dark Caliber>",
+        "params": [
+            98,
+            0,
+            135,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2200,
+        "wtypeId": 2
+    },
+    {
+        "id": 22,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.42
+            }
+        ],
+        "iconIndex": 2172,
+        "name": "ダークカリバー",
+        "note": "\n<rank:10>\n<icon:13>\n<en:Ground Sword>",
+        "params": [
+            120,
+            0,
+            165,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000,
+        "wtypeId": 2
+    },
+    {
+        "id": 23,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 24,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 25,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 26,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 27,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 28,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 29,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 30,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 31,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 32,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 33,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 34,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 35,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 36,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 37,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 38,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 39,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 40,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 41,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:1>\n<material1:13>\n<material1_count:25>",
+        "params": [
+            0,
+            0,
+            50,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 42,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:2>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 43,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:3>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 44,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:4>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 45,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:5>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 46,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:6>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 47,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:7>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 48,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:8>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 49,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.36
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:9>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 50,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.4
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.19
+            }
+        ],
+        "iconIndex": 1434,
+        "name": "ミスリルソード",
+        "note": "<lv:10>",
+        "params": [
+            0,
+            0,
+            120,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 51,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.45
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.17
+            }
+        ],
+        "iconIndex": 1729,
+        "name": "最強ソード",
+        "note": "<lv:1>\n<material1:13>\n<material1_count:25>",
+        "params": [
+            0,
+            0,
+            74,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300,
+        "wtypeId": 2
+    },
+    {
+        "id": 52,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 53,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 54,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 55,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 56,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 57,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 58,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 59,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 60,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 61,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.08
+            }
+        ],
+        "iconIndex": 479,
+        "name": "力の指輪",
+        "note": "\n<rank:1>\n<plus:4>",
+        "params": [
+            0,
+            0,
+            23,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 600,
+        "wtypeId": 2
+    },
+    {
+        "id": 62,
+        "animationId": 6,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.12
+            }
+        ],
+        "iconIndex": 479,
+        "name": "剛力の指輪",
+        "note": "\n<rank:2>\n<plus:4>",
+        "params": [
+            0,
+            0,
+            41,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1200,
+        "wtypeId": 2
+    },
+    {
+        "id": 63,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 64,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 65,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 66,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 67,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 68,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 69,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 70,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 71,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 72,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 73,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 74,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 75,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 76,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 77,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 78,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 79,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 80,
+        "animationId": 123,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 416,
+        "name": "ダガー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10,
+        "wtypeId": 1
+    },
+    {
+        "id": 81,
+        "animationId": 123,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 416,
+        "name": "ショートソード",
+        "note": "",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10,
+        "wtypeId": 1
+    },
+    {
+        "id": 82,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.08
+            }
+        ],
+        "iconIndex": 417,
+        "name": "ロングソード",
+        "note": "",
+        "params": [
+            3,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100,
+        "wtypeId": 2
+    },
+    {
+        "id": 83,
+        "animationId": 6,
+        "description": "軽くて扱いやすい刀身の短い剣。",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.2
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 1424,
+        "name": "バスタードソード",
+        "note": "",
+        "params": [
+            5,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 600,
+        "wtypeId": 0
+    },
+    {
+        "id": 84,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 85,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 86,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 87,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 88,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 89,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 90,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 91,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 92,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 93,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 94,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 95,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 96,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 97,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 98,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 99,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 100,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 101,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 102,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 103,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 104,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 105,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 106,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 107,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 108,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 109,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 110,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 111,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 112,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 113,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 114,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 115,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 116,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 117,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 118,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 119,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 120,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 121,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 122,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 123,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 124,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 125,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 126,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 127,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 128,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 129,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 130,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 131,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 132,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 133,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 134,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 135,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 136,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 137,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 138,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 139,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 140,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 141,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 142,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 143,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 144,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 145,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 146,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 147,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 148,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 149,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 150,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 151,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 152,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 153,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 154,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 155,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 156,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 157,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 158,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 159,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 160,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 161,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 162,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 163,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 164,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 165,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 166,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 167,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 168,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 169,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 170,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 171,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 172,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 173,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 174,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 175,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 176,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 177,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 178,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 179,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 180,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 181,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 182,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 183,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 184,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 185,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 186,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 187,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 188,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 189,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 190,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 191,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 192,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 193,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 194,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 195,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 196,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 197,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 198,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 199,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    },
+    {
+        "id": 200,
+        "animationId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0,
+        "wtypeId": 0
+    }
+]

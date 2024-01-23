@@ -1,0 +1,79 @@
+{"frames": {
+
+"01_04_53_02.png":
+{
+	"frame": {"x":0,"y":0,"w":286,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":390,"y":24,"w":286,"h":267},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_04_54_02.png":
+{
+	"frame": {"x":286,"y":0,"w":286,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":390,"y":24,"w":286,"h":267},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_04_55_02.png":
+{
+	"frame": {"x":572,"y":0,"w":286,"h":267},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":390,"y":24,"w":286,"h":267},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_04_56_02.png":
+{
+	"frame": {"x":0,"y":267,"w":286,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":390,"y":24,"w":286,"h":267},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_04_57_02.png":
+{
+	"frame": {"x":286,"y":267,"w":286,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":390,"y":24,"w":286,"h":267},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_04_58_02.png":
+{
+	"frame": {"x":572,"y":286,"w":286,"h":267},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":390,"y":24,"w":286,"h":267},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_04_60_02.png":
+{
+	"frame": {"x":0,"y":534,"w":286,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":390,"y":24,"w":286,"h":267},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_04_61_02.png":
+{
+	"frame": {"x":286,"y":534,"w":286,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":390,"y":24,"w":286,"h":267},
+	"sourceSize": {"w":1280,"h":800}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ero01_04_4.webp",
+	"format": "RGBA8888",
+	"size": {"w":839,"h":801},
+	"scale": "1",
+	"related_multi_packs": [ "ero01_04_1.json", "ero01_04_2.json", "ero01_04_3.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:b4d78bea0cb692c82fce0324917b234f:4fabd666702598ec83bdb815eff4d016:2349a40d4230d1eeb78b365f3a3b1e12$"
+}
+}

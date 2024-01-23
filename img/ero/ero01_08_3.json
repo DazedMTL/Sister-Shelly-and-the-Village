@@ -1,0 +1,79 @@
+{"frames": {
+
+"01_08_11_02.png":
+{
+	"frame": {"x":284,"y":0,"w":273,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":131,"w":273,"h":231},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_08_12_02.png":
+{
+	"frame": {"x":0,"y":0,"w":284,"h":221},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":235,"y":133,"w":284,"h":221},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_08_13_02.png":
+{
+	"frame": {"x":557,"y":0,"w":284,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":235,"y":80,"w":284,"h":264},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_08_38_01.png":
+{
+	"frame": {"x":0,"y":264,"w":1280,"h":800},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_08_48_01.png":
+{
+	"frame": {"x":0,"y":264,"w":1280,"h":800},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_08_58_01.png":
+{
+	"frame": {"x":0,"y":264,"w":1280,"h":800},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_08_68_01.png":
+{
+	"frame": {"x":0,"y":264,"w":1280,"h":800},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+},
+"01_08_78_01.png":
+{
+	"frame": {"x":0,"y":264,"w":1280,"h":800},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":800},
+	"sourceSize": {"w":1280,"h":800}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ero01_08_3.webp",
+	"format": "RGBA8888",
+	"size": {"w":841,"h":1544},
+	"scale": "1",
+	"related_multi_packs": [ "ero01_08_1.json", "ero01_08_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:32733296a88a1460d2d72ee8fcaa74ad:edb1e0427d5892bdd2e654dae5db4848:7c06aa3a8ed0231db68b6169faca356d$"
+}
+}

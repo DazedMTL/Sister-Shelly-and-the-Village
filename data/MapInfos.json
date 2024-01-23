@@ -1,0 +1,258 @@
+[
+    null,
+    null,
+    null,
+    null,
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "ゲーム開始位置",
+        "order": 2,
+        "parentId": 0,
+        "scrollX": 655.5,
+        "scrollY": 505
+    },
+    {
+        "id": 5,
+        "expanded": false,
+        "name": "ダンジョン1F",
+        "order": 5,
+        "parentId": 6,
+        "scrollX": 951,
+        "scrollY": 543
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "ダンジョン",
+        "order": 4,
+        "parentId": 0,
+        "scrollX": 951,
+        "scrollY": 543.5
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "最下層イベント",
+        "order": 7,
+        "parentId": 6,
+        "scrollX": 1131,
+        "scrollY": 633.5
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "教会(結婚)",
+        "order": 20,
+        "parentId": 10,
+        "scrollX": 1105,
+        "scrollY": 543
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "教会",
+        "order": 10,
+        "parentId": 10,
+        "scrollX": 1080,
+        "scrollY": 674
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "街",
+        "order": 9,
+        "parentId": 0,
+        "scrollX": 951,
+        "scrollY": 1114
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "酒場",
+        "order": 18,
+        "parentId": 10,
+        "scrollX": 951,
+        "scrollY": 543.5
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "宿屋",
+        "order": 12,
+        "parentId": 10,
+        "scrollX": 951,
+        "scrollY": 543
+    },
+    {
+        "id": 13,
+        "expanded": false,
+        "name": "デバッグルーム",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 951,
+        "scrollY": 543
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "パン屋",
+        "order": 13,
+        "parentId": 10,
+        "scrollX": 951,
+        "scrollY": 543
+    },
+    {
+        "id": 15,
+        "expanded": false,
+        "name": "倉庫",
+        "order": 14,
+        "parentId": 10,
+        "scrollX": 1224,
+        "scrollY": 763.8
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "スラム街",
+        "order": 15,
+        "parentId": 10,
+        "scrollX": 663.5,
+        "scrollY": 642
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "武器屋",
+        "order": 16,
+        "parentId": 10,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "宿屋(出産)",
+        "order": 17,
+        "parentId": 10,
+        "scrollX": 951,
+        "scrollY": 545.5
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "子供部屋",
+        "order": 11,
+        "parentId": 9,
+        "scrollX": 1141.2,
+        "scrollY": 653.4
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "テント",
+        "order": 19,
+        "parentId": 10,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "宝箱",
+        "order": 6,
+        "parentId": 6,
+        "scrollX": 951,
+        "scrollY": 543
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "村",
+        "order": 21,
+        "parentId": 10,
+        "scrollX": 1249,
+        "scrollY": 694
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "村",
+        "order": 22,
+        "parentId": 22,
+        "scrollX": 972,
+        "scrollY": 1204
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "MAP024",
+        "order": 26,
+        "parentId": 25,
+        "scrollX": 1141.2,
+        "scrollY": 653.4
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "宿屋１階",
+        "order": 24,
+        "parentId": 10,
+        "scrollX": 1009,
+        "scrollY": 562
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "宿屋２階",
+        "order": 25,
+        "parentId": 25,
+        "scrollX": 832,
+        "scrollY": 656
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "村",
+        "order": 23,
+        "parentId": 22,
+        "scrollX": 1224,
+        "scrollY": 1204
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "回想用",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 832,
+        "scrollY": 624
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "武器屋",
+        "order": 27,
+        "parentId": 10,
+        "scrollX": 951,
+        "scrollY": 543
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "ダンジョン最下層",
+        "order": 8,
+        "parentId": 6,
+        "scrollX": 1141.2,
+        "scrollY": 653.4
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "託児所",
+        "order": 28,
+        "parentId": 10,
+        "scrollX": 951,
+        "scrollY": 750.5
+    }
+]

@@ -1,0 +1,78 @@
+{"frames": {
+
+"actor01_01.png":
+{
+	"frame": {"x":169,"y":1122,"w":129,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":278,"w":129,"h":105},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_body_1_a.png":
+{
+	"frame": {"x":0,"y":0,"w":369,"h":651},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":373,"w":369,"h":651},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_face_1.png":
+{
+	"frame": {"x":429,"y":1018,"w":251,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":177,"w":251,"h":290},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_hair_1.png":
+{
+	"frame": {"x":0,"y":651,"w":429,"h":471},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":162,"y":179,"w":429,"h":471},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_a_front_1_a.png":
+{
+	"frame": {"x":0,"y":1122,"w":169,"h":184},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":336,"w":169,"h":184},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_b_back_1_a.png":
+{
+	"frame": {"x":169,"y":1227,"w":153,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":284,"y":377,"w":153,"h":27},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_b_front_1_a.png":
+{
+	"frame": {"x":429,"y":650,"w":339,"h":368},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":164,"y":159,"w":339,"h":368},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_b_main_1_a.png":
+{
+	"frame": {"x":369,"y":0,"w":334,"h":650},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":374,"w":334,"h":650},
+	"sourceSize": {"w":1024,"h":1024}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "actor01.webp",
+	"format": "RGBA8888",
+	"size": {"w":768,"h":1308},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:59e8404eddcf95ab9ebbea25d5276da1:6f1a0b3b6f07fab365036d3d1da97989:10063b601a32471fee0587ba9f9739fd$"
+}
+}
