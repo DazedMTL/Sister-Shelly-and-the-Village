@@ -192,7 +192,7 @@ var Nore;
       sprite.y = index * 52 + 31;
       this._windowContentsSprite.addChild(sprite);
       var actor = $gameActors.actor(4);
-      var offset = ConfigManager.en ? 43 : 0;
+      var offset = ConfigManager.en ? 43 : 43;
       var numX = 264 + offset;
       if (index == 1) {
         if (this.index() == index) {

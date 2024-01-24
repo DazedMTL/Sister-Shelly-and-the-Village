@@ -7,7 +7,7 @@
         "uiAreaHeight": 800,
         "numberFontFilename": "mplus-2p-bold-sub.woff",
         "fallbackFonts": "Verdana, sans-serif",
-        "fontSize": 26,
+        "fontSize": 20,
         "mainFontFilename": "GenEiLateMinN_v2.ttf",
         "windowOpacity": 192
     },
