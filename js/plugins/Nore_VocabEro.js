@@ -60,35 +60,35 @@ function getEroStatusTitle(label) {
 function getEroName(itemId) {
   switch (itemId) {
     case Nore.SyusanCommad.VIBE:
-      return "手マン";
+      return "Fingering";
     case Nore.SyusanCommad.MUCHI:
-      return "ムチ";
+      return "Whip";
     case Nore.SyusanCommad.SEX:
-      return "セックス";
+      return "Sex";
     case Nore.SyusanCommad.KUPAA:
-      return "まんこを開く";
+      return "Spread pussy";
     case Nore.SyusanCommad.ONAKA_NADE:
-      return "お腹なで";
+      return "Tummy pat";
     case Nore.SyusanCommad.ONAKA_BUKKAKE:
-      return "ぶっかけ(お腹)";
+      return "Cumshot (tummy)";
     case Nore.SyusanCommad.KAO_BUKKAKE:
-      return "ぶっかけ(顔)";
+      return "Cumshot (face)";
     case Nore.SyusanCommad.ANAL:
       return TextManager.anal;
     case Nore.SyusanCommad.CHICHIMOMI:
-      return "乳首つまみ";
+      return "Nipple pinch";
     case Nore.SyusanCommad.CHICHISUI:
-      return "乳舐め";
+      return "Nipple lick";
     case Nore.SyusanCommad.AORI:
-      return "レオくんあおり";
+      return "Scolding Leo";
     case Nore.SyusanCommad.TEMAN:
-      return "手マン";
+      return "Fingering";
     case Nore.SyusanCommad.KISS:
-      return "キス";
+      return "Kiss";
     case Nore.SyusanCommad.OSHIKKO:
-      return "膣内放尿";
+      return "Urination";
     case Nore.SyusanCommad.HANA:
-      return "鼻フック";
+      return "Nose Hook";
     default:
       p(itemId);
       return "";
