@@ -6,7 +6,7 @@
     {
         "id": 4,
         "expanded": false,
-        "name": "ゲーム開始位置",
+        "name": "Game Start Location",
         "order": 2,
         "parentId": 0,
         "scrollX": 655.5,
@@ -15,7 +15,7 @@
     {
         "id": 5,
         "expanded": false,
-        "name": "ダンジョン1F",
+        "name": "Dungeon 1F",
         "order": 5,
         "parentId": 6,
         "scrollX": 951,
@@ -24,7 +24,7 @@
     {
         "id": 6,
         "expanded": true,
-        "name": "ダンジョン",
+        "name": "Dungeon",
         "order": 4,
         "parentId": 0,
         "scrollX": 951,
@@ -33,7 +33,7 @@
     {
         "id": 7,
         "expanded": false,
-        "name": "最下層イベント",
+        "name": "Bottom Floor Event",
         "order": 7,
         "parentId": 6,
         "scrollX": 1131,
@@ -42,7 +42,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "教会(結婚)",
+        "name": "Church (Marriage)",
         "order": 20,
         "parentId": 10,
         "scrollX": 1105,
@@ -51,7 +51,7 @@
     {
         "id": 9,
         "expanded": false,
-        "name": "教会",
+        "name": "Church",
         "order": 10,
         "parentId": 10,
         "scrollX": 1080,
@@ -60,7 +60,7 @@
     {
         "id": 10,
         "expanded": true,
-        "name": "街",
+        "name": "Town",
         "order": 9,
         "parentId": 0,
         "scrollX": 951,
@@ -69,7 +69,7 @@
     {
         "id": 11,
         "expanded": false,
-        "name": "酒場",
+        "name": "Tavern",
         "order": 18,
         "parentId": 10,
         "scrollX": 951,
@@ -78,7 +78,7 @@
     {
         "id": 12,
         "expanded": false,
-        "name": "宿屋",
+        "name": "Inn",
         "order": 12,
         "parentId": 10,
         "scrollX": 951,
@@ -87,7 +87,7 @@
     {
         "id": 13,
         "expanded": false,
-        "name": "デバッグルーム",
+        "name": "Debug Room",
         "order": 1,
         "parentId": 0,
         "scrollX": 951,
@@ -96,7 +96,7 @@
     {
         "id": 14,
         "expanded": false,
-        "name": "パン屋",
+        "name": "Bakery",
         "order": 13,
         "parentId": 10,
         "scrollX": 951,
@@ -105,7 +105,7 @@
     {
         "id": 15,
         "expanded": false,
-        "name": "倉庫",
+        "name": "Warehouse",
         "order": 14,
         "parentId": 10,
         "scrollX": 1224,
@@ -114,7 +114,7 @@
     {
         "id": 16,
         "expanded": false,
-        "name": "スラム街",
+        "name": "Slums",
         "order": 15,
         "parentId": 10,
         "scrollX": 663.5,
@@ -123,7 +123,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "武器屋",
+        "name": "Weapon Shop",
         "order": 16,
         "parentId": 10,
         "scrollX": 816,
@@ -132,7 +132,7 @@
     {
         "id": 18,
         "expanded": false,
-        "name": "宿屋(出産)",
+        "name": "Inn (Childbirth)",
         "order": 17,
         "parentId": 10,
         "scrollX": 951,
@@ -141,7 +141,7 @@
     {
         "id": 19,
         "expanded": false,
-        "name": "子供部屋",
+        "name": "Children's Room",
         "order": 11,
         "parentId": 9,
         "scrollX": 1141.2,
@@ -150,7 +150,7 @@
     {
         "id": 20,
         "expanded": false,
-        "name": "テント",
+        "name": "Tent",
         "order": 19,
         "parentId": 10,
         "scrollX": 816,
@@ -159,7 +159,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "宝箱",
+        "name": "Treasure Chest",
         "order": 6,
         "parentId": 6,
         "scrollX": 951,
@@ -168,7 +168,7 @@
     {
         "id": 22,
         "expanded": true,
-        "name": "村",
+        "name": "Village",
         "order": 21,
         "parentId": 10,
         "scrollX": 1249,
@@ -177,7 +177,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "村",
+        "name": "Village",
         "order": 22,
         "parentId": 22,
         "scrollX": 972,
@@ -195,7 +195,7 @@
     {
         "id": 25,
         "expanded": true,
-        "name": "宿屋１階",
+        "name": "Inn 1st Floor",
         "order": 24,
         "parentId": 10,
         "scrollX": 1009,
@@ -204,7 +204,7 @@
     {
         "id": 26,
         "expanded": false,
-        "name": "宿屋２階",
+        "name": "Inn 2nd Floor",
         "order": 25,
         "parentId": 25,
         "scrollX": 832,
@@ -213,7 +213,7 @@
     {
         "id": 27,
         "expanded": true,
-        "name": "村",
+        "name": "Village",
         "order": 23,
         "parentId": 22,
         "scrollX": 1224,
@@ -222,7 +222,7 @@
     {
         "id": 28,
         "expanded": false,
-        "name": "回想用",
+        "name": "Recollection Room",
         "order": 3,
         "parentId": 0,
         "scrollX": 832,
@@ -231,7 +231,7 @@
     {
         "id": 29,
         "expanded": false,
-        "name": "武器屋",
+        "name": "Weapon Shop",
         "order": 27,
         "parentId": 10,
         "scrollX": 951,
@@ -240,7 +240,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "ダンジョン最下層",
+        "name": "Dungeon Bottom Layer",
         "order": 8,
         "parentId": 6,
         "scrollX": 1141.2,
@@ -249,7 +249,7 @@
     {
         "id": 31,
         "expanded": false,
-        "name": "託児所",
+        "name": "Nursery",
         "order": 28,
         "parentId": 10,
         "scrollX": 951,

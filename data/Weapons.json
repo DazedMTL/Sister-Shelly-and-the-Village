@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 123,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 2160,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "\n<rank:1>\n<en:Short Sword>\n<icon:0>",
         "params": [
             5,
@@ -31,7 +31,7 @@
     {
         "id": 2,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -41,7 +41,7 @@
             }
         ],
         "iconIndex": 2161,
-        "name": "ロングソード",
+        "name": "Long Sword",
         "note": "\n<rank:2>\n<en:Long Sword>\n<icon:1>",
         "params": [
             10,
@@ -59,7 +59,7 @@
     {
         "id": 3,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -69,7 +69,7 @@
             }
         ],
         "iconIndex": 2162,
-        "name": "サーベル",
+        "name": "Saber",
         "note": "\n<rank:3>\n<en:Saber>\n<icon:2>",
         "params": [
             15,
@@ -87,7 +87,7 @@
     {
         "id": 4,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -97,7 +97,7 @@
             }
         ],
         "iconIndex": 2163,
-        "name": "バスタードソード",
+        "name": "Bastard Sword",
         "note": "\n<rank:4>\n<icon:3>\n<en:Bastard sword>",
         "params": [
             23,
@@ -115,7 +115,7 @@
     {
         "id": 5,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -125,7 +125,7 @@
             }
         ],
         "iconIndex": 2164,
-        "name": "エルヴンソード",
+        "name": "Elven Sword",
         "note": "\n<rank:5>\n<icon:4>\n<en:Elven Sword>",
         "params": [
             33,
@@ -143,7 +143,7 @@
     {
         "id": 6,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -153,7 +153,7 @@
             }
         ],
         "iconIndex": 2165,
-        "name": "カタナ",
+        "name": "Katana",
         "note": "\n<rank:6>\n<icon:5>\n<en:Katana>",
         "params": [
             47,
@@ -171,7 +171,7 @@
     {
         "id": 7,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -181,7 +181,7 @@
             }
         ],
         "iconIndex": 2166,
-        "name": "悪魔の剣",
+        "name": "Demon Sword",
         "note": "\n<rank:7>\n<icon:6>\n\n<en:Devil's Sword>",
         "params": [
             75,
@@ -199,7 +199,7 @@
     {
         "id": 8,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -209,7 +209,7 @@
             }
         ],
         "iconIndex": 2167,
-        "name": "ドラゴンスレイヤー",
+        "name": "Dragon Slayer",
         "note": "\n<rank:8>\n<icon:7>\n<en:Dragon Slayer>",
         "params": [
             95,
@@ -227,7 +227,7 @@
     {
         "id": 9,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -237,7 +237,7 @@
             }
         ],
         "iconIndex": 2168,
-        "name": "勇者の剣",
+        "name": "Sword of the Brave",
         "note": "\n<rank:9>\n<icon:8>\n<en:Hero's Sword>",
         "params": [
             115,
@@ -316,7 +316,7 @@
     {
         "id": 12,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -326,7 +326,7 @@
             }
         ],
         "iconIndex": 2172,
-        "name": "グランドソード",
+        "name": "Grand Sword",
         "note": "\n<rank:6>\n<icon:13>\n<en:Ground Sword>",
         "params": [
             50,
@@ -344,7 +344,7 @@
     {
         "id": 13,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -354,7 +354,7 @@
             }
         ],
         "iconIndex": 2172,
-        "name": "グランドソード",
+        "name": "Grand Sword",
         "note": "\n<rank:7>\n<icon:13>\n<en:Ground Sword>",
         "params": [
             78,
@@ -372,7 +372,7 @@
     {
         "id": 14,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -382,7 +382,7 @@
             }
         ],
         "iconIndex": 2167,
-        "name": "グランドソード",
+        "name": "Grand Sword",
         "note": "\n<rank:8>\n<icon:13>\n<en:Ground Sword>",
         "params": [
             98,
@@ -400,7 +400,7 @@
     {
         "id": 15,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -410,7 +410,7 @@
             }
         ],
         "iconIndex": 2172,
-        "name": "グランドソード",
+        "name": "Grand Sword",
         "note": "\n<rank:10>\n<icon:10>\n<en:Ground Sword>",
         "params": [
             120,
@@ -527,7 +527,7 @@
     {
         "id": 19,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -537,7 +537,7 @@
             }
         ],
         "iconIndex": 2171,
-        "name": "ダークカリバー",
+        "name": "Dark Caliber",
         "note": "\n<rank:6>\n<icon:12>\n<en:Dark Caliber>",
         "params": [
             50,
@@ -555,7 +555,7 @@
     {
         "id": 20,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -565,7 +565,7 @@
             }
         ],
         "iconIndex": 2172,
-        "name": "ダークカリバー",
+        "name": "Dark Caliber",
         "note": "\n<rank:7>\n<icon:12>\n<en:Dark Caliber>",
         "params": [
             78,
@@ -583,7 +583,7 @@
     {
         "id": 21,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -593,7 +593,7 @@
             }
         ],
         "iconIndex": 2167,
-        "name": "ダークカリバー",
+        "name": "Dark Caliber",
         "note": "\n<rank:8>\n<icon:12>\n<en:Dark Caliber>",
         "params": [
             98,
@@ -611,7 +611,7 @@
     {
         "id": 22,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -621,7 +621,7 @@
             }
         ],
         "iconIndex": 2172,
-        "name": "ダークカリバー",
+        "name": "Dark Caliber",
         "note": "\n<rank:10>\n<icon:13>\n<en:Ground Sword>",
         "params": [
             120,
@@ -1233,7 +1233,7 @@
     {
         "id": 41,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1248,7 +1248,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:1>\n<material1:13>\n<material1_count:25>",
         "params": [
             0,
@@ -1266,7 +1266,7 @@
     {
         "id": 42,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1281,7 +1281,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:2>",
         "params": [
             0,
@@ -1299,7 +1299,7 @@
     {
         "id": 43,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1314,7 +1314,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:3>",
         "params": [
             0,
@@ -1332,7 +1332,7 @@
     {
         "id": 44,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1347,7 +1347,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:4>",
         "params": [
             0,
@@ -1365,7 +1365,7 @@
     {
         "id": 45,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1380,7 +1380,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:5>",
         "params": [
             0,
@@ -1398,7 +1398,7 @@
     {
         "id": 46,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1413,7 +1413,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:6>",
         "params": [
             0,
@@ -1431,7 +1431,7 @@
     {
         "id": 47,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1446,7 +1446,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:7>",
         "params": [
             0,
@@ -1464,7 +1464,7 @@
     {
         "id": 48,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1479,7 +1479,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:8>",
         "params": [
             0,
@@ -1497,7 +1497,7 @@
     {
         "id": 49,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1512,7 +1512,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:9>",
         "params": [
             0,
@@ -1530,7 +1530,7 @@
     {
         "id": 50,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1545,7 +1545,7 @@
             }
         ],
         "iconIndex": 1434,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "<lv:10>",
         "params": [
             0,
@@ -1563,7 +1563,7 @@
     {
         "id": 51,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1578,7 +1578,7 @@
             }
         ],
         "iconIndex": 1729,
-        "name": "最強ソード",
+        "name": "Ultimate Sword",
         "note": "<lv:1>\n<material1:13>\n<material1_count:25>",
         "params": [
             0,
@@ -1903,7 +1903,7 @@
             }
         ],
         "iconIndex": 479,
-        "name": "力の指輪",
+        "name": "Power Ring",
         "note": "\n<rank:1>\n<plus:4>",
         "params": [
             0,
@@ -1931,7 +1931,7 @@
             }
         ],
         "iconIndex": 479,
-        "name": "剛力の指輪",
+        "name": "Ring of Might",
         "note": "\n<rank:2>\n<plus:4>",
         "params": [
             0,
@@ -2510,7 +2510,7 @@
     {
         "id": 80,
         "animationId": 123,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -2520,7 +2520,7 @@
             }
         ],
         "iconIndex": 416,
-        "name": "ダガー",
+        "name": "Dagger",
         "note": "",
         "params": [
             0,
@@ -2538,7 +2538,7 @@
     {
         "id": 81,
         "animationId": 123,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -2548,7 +2548,7 @@
             }
         ],
         "iconIndex": 416,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "",
         "params": [
             0,
@@ -2566,7 +2566,7 @@
     {
         "id": 82,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -2576,7 +2576,7 @@
             }
         ],
         "iconIndex": 417,
-        "name": "ロングソード",
+        "name": "Long Sword",
         "note": "",
         "params": [
             3,
@@ -2594,7 +2594,7 @@
     {
         "id": 83,
         "animationId": 6,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a light and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -2609,7 +2609,7 @@
             }
         ],
         "iconIndex": 1424,
-        "name": "バスタードソード",
+        "name": "Bastard Sword",
         "note": "",
         "params": [
             5,

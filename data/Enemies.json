@@ -49,7 +49,7 @@
             }
         ],
         "gold": 10,
-        "name": "スライム",
+        "name": "Slime",
         "note": "<characterName:$slime01>\n<characterIndex:0>\n<name:0>",
         "params": [
             45,
@@ -111,7 +111,7 @@
             }
         ],
         "gold": 15,
-        "name": "グリーンスライム",
+        "name": "Green Slime",
         "note": "<characterName:$slime11>\n<characterIndex:0>\n<name:1>",
         "params": [
             60,
@@ -173,7 +173,7 @@
             }
         ],
         "gold": 20,
-        "name": "ファイアスライム",
+        "name": "Fire Slime",
         "note": "<characterName:$slime06>\n<characterIndex:0>\n<name:2>",
         "params": [
             83,
@@ -297,7 +297,7 @@
             }
         ],
         "gold": 50,
-        "name": "キングスライム",
+        "name": "King Slime",
         "note": "<characterName:$slimeking_a>\n<characterIndex:0>\n<boss:1>\n<name:3>",
         "params": [
             189,
@@ -669,7 +669,7 @@
             }
         ],
         "gold": 10,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "note": "<characterName:$mon2>\n<characterIndex:0>\n<name:4>",
         "params": [
             103,
@@ -731,7 +731,7 @@
             }
         ],
         "gold": 20,
-        "name": "マタンゴ",
+        "name": "Matango",
         "note": "<characterName:$mon3>\n<characterIndex:0>\n<name:5>",
         "params": [
             96,
@@ -793,7 +793,7 @@
             }
         ],
         "gold": 15,
-        "name": "ホブゴブリン",
+        "name": "Hobgoblin",
         "note": "<characterName:$mon4>\n<characterIndex:0>\n<name:6>",
         "params": [
             149,
@@ -1041,7 +1041,7 @@
             }
         ],
         "gold": 50,
-        "name": "ゴブリンキング",
+        "name": "Goblin King",
         "note": "<characterName:$mon102>\n<characterIndex:0>\n<boss:2>\n<name:7>",
         "params": [
             254,
@@ -1289,7 +1289,7 @@
             }
         ],
         "gold": 10,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "<characterName:$ske1>\n<characterIndex:0>\n<name:8>",
         "params": [
             143,
@@ -1351,7 +1351,7 @@
             }
         ],
         "gold": 15,
-        "name": "スケルトンナイト",
+        "name": "Skeleton Knight",
         "note": "<characterName:$ske2>\n<characterIndex:0>\n<name:9>",
         "params": [
             165,
@@ -1413,7 +1413,7 @@
             }
         ],
         "gold": 20,
-        "name": "スケルトンメイジ",
+        "name": "Skeleton Mage",
         "note": "<characterName:$ske3>\n<characterIndex:0>\n<name:10>",
         "params": [
             238,
@@ -1475,7 +1475,7 @@
             }
         ],
         "gold": 50,
-        "name": "スケルトンキング",
+        "name": "Skeleton King",
         "note": "<characterName:$ske4>\n<characterIndex:0>\n<boss:3>\n<name:11>",
         "params": [
             508,
@@ -1909,7 +1909,7 @@
             }
         ],
         "gold": 10,
-        "name": "ミイラ",
+        "name": "Mummy",
         "note": "<characterName:$mi_1>\n<characterIndex:0>\n<name:12>",
         "params": [
             213,
@@ -1971,7 +1971,7 @@
             }
         ],
         "gold": 15,
-        "name": "熟成ミイラ",
+        "name": "Aged Mummy",
         "note": "<characterName:$mi_2>\n<characterIndex:0>\n<name:13>",
         "params": [
             247,
@@ -2033,7 +2033,7 @@
             }
         ],
         "gold": 20,
-        "name": "ミイラクイーン",
+        "name": "Mummy Queen",
         "note": "<characterName:$mi_3>\n<characterIndex:0>\n<name:14>",
         "params": [
             581,
@@ -2095,7 +2095,7 @@
             }
         ],
         "gold": 50,
-        "name": "ミイラキング",
+        "name": "Mummy King",
         "note": "<characterName:$mi_4>\n<characterIndex:0>\n<boss:4>\n<name:15>\n<dmgPlus:1>",
         "params": [
             917,
@@ -2529,7 +2529,7 @@
             }
         ],
         "gold": 10,
-        "name": "老人ゾンビ",
+        "name": "Elder Zombie",
         "note": "<characterName:$zom_1>\n<characterIndex:0>\n<name:16>",
         "params": [
             338,
@@ -2591,7 +2591,7 @@
             }
         ],
         "gold": 15,
-        "name": "中年ゾンビ",
+        "name": "Middle-aged Zombie",
         "note": "<characterName:$zom_2>\n<characterIndex:0>\n<name:17>\n<dmgPlus:1>",
         "params": [
             337,
@@ -2653,7 +2653,7 @@
             }
         ],
         "gold": 20,
-        "name": "青年ゾンビ",
+        "name": "Youth Zombie",
         "note": "<characterName:$zom_3>\n<characterIndex:0>\n<name:18>\n<dmgPlus:2>",
         "params": [
             715,
@@ -2715,7 +2715,7 @@
             }
         ],
         "gold": 50,
-        "name": "ボスゾンビ",
+        "name": "Boss Zombie",
         "note": "<characterName:$zom_4>\n<characterIndex:0>\n<boss:5>\n<name:19>\n<dmgPlus:3>",
         "params": [
             1498,
@@ -3149,7 +3149,7 @@
             }
         ],
         "gold": 10,
-        "name": "パンプキンゾンビ",
+        "name": "Pumpkin Zombie",
         "note": "<characterName:$pan_01>\n<characterIndex:0>\n<name:20>",
         "params": [
             514,
@@ -3211,7 +3211,7 @@
             }
         ],
         "gold": 18,
-        "name": "パンプキンナイト",
+        "name": "Pumpkin Knight",
         "note": "\n<characterName:$pan_02>\n<characterIndex:0>\n<name:21>\n<dmgPlus:1>",
         "params": [
             824,
@@ -3273,7 +3273,7 @@
             }
         ],
         "gold": 18,
-        "name": "パンプキンマジシャン",
+        "name": "Pumpkin Magician",
         "note": "\n<characterName:$pan_03>\n<characterIndex:0>\n<name:22>\n<dmgPlus:2>",
         "params": [
             1040,
@@ -3335,7 +3335,7 @@
             }
         ],
         "gold": 50,
-        "name": "パンプキンデーモン",
+        "name": "Pumpkin Demon",
         "note": "<characterName:$pan_04>\n<characterIndex:0>\n<boss:6>\n<name:23>\n<dmgPlus:6>",
         "params": [
             1586,
@@ -3769,7 +3769,7 @@
             }
         ],
         "gold": 10,
-        "name": "オニ",
+        "name": "Ogre",
         "note": "\n<characterName:$oni>\n<characterIndex:0>\n<name:24>\n<dmgPlus:1>",
         "params": [
             689,
@@ -3831,7 +3831,7 @@
             }
         ],
         "gold": 18,
-        "name": "赤オニ",
+        "name": "Red Ogre",
         "note": "<characterName:$oniAka>\n<characterIndex:0>\n<name:25>\n<dmgPlus:2>",
         "params": [
             900,
@@ -3893,7 +3893,7 @@
             }
         ],
         "gold": 18,
-        "name": "半魚人",
+        "name": "Mermaid Man",
         "note": "<characterName:$hangyo>\n<characterIndex:0>\n<name:26>\n<dmgPlus:3>",
         "params": [
             1189,
@@ -4017,7 +4017,7 @@
             }
         ],
         "gold": 50,
-        "name": "サイクロプス",
+        "name": "Cyclops",
         "note": "\n<characterName:$oniBoss>\n<characterIndex:0>\n<boss:7>\n<name:27>\n<dmgPlus:4>",
         "params": [
             1980,
@@ -4389,7 +4389,7 @@
             }
         ],
         "gold": 10,
-        "name": "スペクター",
+        "name": "Specter",
         "note": "<characterName:$oba01>\n<characterIndex:0>\n<name:28>\n<dmgPlus:1>",
         "params": [
             1000,
@@ -4451,7 +4451,7 @@
             }
         ],
         "gold": 10,
-        "name": "悪霊",
+        "name": "Evil Spirit",
         "note": "<characterName:$oba02>\n<characterIndex:0>\n<name:29>\n<dmgPlus:1>",
         "params": [
             1200,
@@ -4513,7 +4513,7 @@
             }
         ],
         "gold": 10,
-        "name": "ワイト",
+        "name": "Wight",
         "note": "<characterName:$oba03>\n<characterIndex:0>\n<name:30>\n<dmgPlus:2>",
         "params": [
             1700,
@@ -4575,7 +4575,7 @@
             }
         ],
         "gold": 12,
-        "name": "レギオン",
+        "name": "Legion",
         "note": "\n<characterName:$oba04>\n<characterIndex:0>\n<boss:8>\n<name:31>\n<dmgPlus:2>",
         "params": [
             2400,
@@ -5009,7 +5009,7 @@
             }
         ],
         "gold": 10,
-        "name": "祈祷師",
+        "name": "Priest",
         "note": "<characterName:$mag01>\n<characterIndex:0>\n<name:32>\n<dmgPlus:1>",
         "params": [
             800,
@@ -5071,7 +5071,7 @@
             }
         ],
         "gold": 18,
-        "name": "魔術師",
+        "name": "Magician",
         "note": "<characterName:$mag02>\n<characterIndex:0>\n<name:33>\n<dmgPlus:2>",
         "params": [
             1300,
@@ -5133,7 +5133,7 @@
             }
         ],
         "gold": 18,
-        "name": "魔道士",
+        "name": "Sorcerer",
         "note": "<characterName:$mag03>\n<characterIndex:0>\n<name:34>\n<dmgPlus:3>",
         "params": [
             1600,
@@ -5195,7 +5195,7 @@
             }
         ],
         "gold": 50,
-        "name": "大魔道士",
+        "name": "Archmage",
         "note": "<characterName:$mag04>\n<characterIndex:0>\n<boss:9>\n<name:35>\n<dmgPlus:4>",
         "params": [
             2699,
@@ -5629,7 +5629,7 @@
             }
         ],
         "gold": 10,
-        "name": "レッサーデーモン",
+        "name": "Lesser Demon",
         "note": "<characterName:$dem01>\n<characterIndex:0>\n<name:36>\n<dmgPlus:2>",
         "params": [
             1291,
@@ -5691,7 +5691,7 @@
             }
         ],
         "gold": 10,
-        "name": "グレーターデーモン",
+        "name": "Greater Demon",
         "note": "<characterName:$dem02>\n<characterIndex:0>\n<name:37>\n<dmgPlus:2>",
         "params": [
             1708,
@@ -5753,7 +5753,7 @@
             }
         ],
         "gold": 10,
-        "name": "アークデーモン",
+        "name": "Archdemon",
         "note": "<characterName:$dem02>\n<characterIndex:0>\n<name:38>\n<dmgPlus:3>",
         "params": [
             1900,
@@ -5815,7 +5815,7 @@
             }
         ],
         "gold": 12,
-        "name": "ファフニール",
+        "name": "Fafnir",
         "note": "\n<characterName:$BigMonster2>\n<characterIndex:0>\n<boss:10>\n<name:39>\n<dmgPlus:10>",
         "params": [
             6500,
@@ -6187,7 +6187,7 @@
             }
         ],
         "gold": 12,
-        "name": "ファフニール",
+        "name": "Fafnir",
         "note": "<boss:999>\n<characterName:$BigMonster2>\n<characterIndex:0>\n<name:39>",
         "params": [
             3635,
@@ -6249,7 +6249,7 @@
             }
         ],
         "gold": 12,
-        "name": "キングスライム",
+        "name": "King Slime",
         "note": "<characterName:$slimeking_a>\n<characterIndex:0>\n<boss:1>",
         "params": [
             120,
@@ -6318,7 +6318,7 @@
             }
         ],
         "gold": 5,
-        "name": "ゴブリンチャンピオン",
+        "name": "Goblin Champion",
         "note": "<characterName:$mon102>\n<characterIndex:0>\n<boss:2>",
         "params": [
             334,
@@ -6387,7 +6387,7 @@
             }
         ],
         "gold": 5,
-        "name": "デスパンプキン",
+        "name": "Death Pumpkin",
         "note": "<characterName:$mon103>\n<characterIndex:0>\n<boss:3>",
         "params": [
             500,
@@ -18601,7 +18601,7 @@
             }
         ],
         "gold": 0,
-        "name": "■街の人",
+        "name": "Townsperson",
         "note": "",
         "params": [
             100,
@@ -18728,7 +18728,7 @@
             }
         ],
         "gold": 5,
-        "name": "パン屋のおじさん",
+        "name": "Bakery Uncle",
         "note": "\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<ninshin:B>\n<seiekiLifetime:6>",
         "params": [
             8,
@@ -18855,7 +18855,7 @@
             }
         ],
         "gold": 5,
-        "name": "娼館の客ミゲル",
+        "name": "Brothel Client Miguel",
         "note": "\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<ninshin:B>\n<seiekiLifetime:2>",
         "params": [
             8,
@@ -18917,7 +18917,7 @@
             }
         ],
         "gold": 0,
-        "name": "宿屋の主人アンドレイ",
+        "name": "Innkeeper Andrei",
         "note": "<seiekiLifetime:2>",
         "params": [
             100,
@@ -18979,7 +18979,7 @@
             }
         ],
         "gold": 0,
-        "name": "メイヴィス",
+        "name": "Meivis",
         "note": "",
         "params": [
             100,
@@ -19041,7 +19041,7 @@
             }
         ],
         "gold": 0,
-        "name": "やりチンのマーク",
+        "name": "Playboy Mark",
         "note": "<seieki:70>\n<chinpo:human_1>\n<ninshin:B>\n<characterName:mob-ma-03>\n<characterIndex:3>\n<seiekiLifetime:3>",
         "params": [
             100,

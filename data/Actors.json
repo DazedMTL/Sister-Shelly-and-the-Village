@@ -98,7 +98,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "レオ",
+        "name": "Leo",
         "nickname": "",
         "note": "<en:Leo>",
         "profile": ""
@@ -121,7 +121,7 @@
         "traits": [],
         "initialLevel": 46,
         "maxLevel": 99,
-        "name": "シェリー",
+        "name": "Shelly",
         "nickname": "",
         "note": "<en:Shelly>",
         "profile": ""
@@ -167,7 +167,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客",
+        "name": "Customer",
         "nickname": "",
         "note": "<en:Customer>",
         "profile": ""
@@ -190,7 +190,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客A",
+        "name": "Customer A",
         "nickname": "",
         "note": "<en:Customer A>",
         "profile": ""
@@ -213,7 +213,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客B",
+        "name": "Customer B",
         "nickname": "",
         "note": "<en:Customer B>",
         "profile": ""
@@ -236,7 +236,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客C",
+        "name": "Customer C",
         "nickname": "",
         "note": "<en:Customer C>",
         "profile": ""
@@ -259,7 +259,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "宿屋のおじさん",
+        "name": "Innkeeper",
         "nickname": "",
         "note": "<villager:1>\n<chimpo:7>\n<en:Innkeeper>",
         "profile": ""
@@ -282,7 +282,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "パン屋のおじさん",
+        "name": "Bakery Owner",
         "nickname": "",
         "note": "<villager:1>\n<chimpo:6>\n<en:Baker>",
         "profile": ""
@@ -305,7 +305,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "武器屋のおじさん",
+        "name": "Weapon Shop Owner",
         "nickname": "",
         "note": "<villager:1>\n<chimpo:5>\n<en:Weapon Merchant>",
         "profile": ""
@@ -328,7 +328,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場のマスター",
+        "name": "Bar Master",
         "nickname": "",
         "note": "<villager:1>\n<chimpo:5>\n<en:Tavern Owner>",
         "profile": ""
@@ -351,7 +351,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者のおじいさん",
+        "name": "Vagrant Old Man",
         "nickname": "",
         "note": "<villager:1>\n<seiekiMin:26>\n<seiekiMax:32>\n<chimpo:6>\n<en:Homeless Old Man>",
         "profile": ""
@@ -374,7 +374,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "薬草売りのお兄さん",
+        "name": "Herb Seller",
         "nickname": "",
         "note": "<villager:1>\n<chimpo:5>\n<en:Herborist>",
         "profile": ""
@@ -397,7 +397,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "飲んだくれ",
+        "name": "Drunkard",
         "nickname": "",
         "note": "<villager:0>",
         "profile": ""
@@ -420,7 +420,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ノア",
+        "name": "Noah",
         "nickname": "",
         "note": "<villager:1>\n<chimpo:4>\n<en:Noah>",
         "profile": ""
@@ -443,7 +443,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ノアの父",
+        "name": "Noah's Father",
         "nickname": "",
         "note": "<villager:0>\n<en:Noah's father>",
         "profile": ""
@@ -466,7 +466,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "商人",
+        "name": "Merchant",
         "nickname": "",
         "note": "<en:Merchant>",
         "profile": ""
@@ -489,7 +489,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "使用人",
+        "name": "Servant",
         "nickname": "",
         "note": "<en:Employee>",
         "profile": ""
@@ -512,7 +512,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "占い師",
+        "name": "Fortune Teller",
         "nickname": "",
         "note": "<en:Fortuneteller>",
         "profile": ""
@@ -535,7 +535,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "チャラい男A",
+        "name": "Flirty Man A",
         "nickname": "",
         "note": "<chimpo:5>\n<city:1>\n<en:Fuckboy A>",
         "profile": ""
@@ -558,7 +558,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "チャラい男B",
+        "name": "Flirty Man B",
         "nickname": "",
         "note": "<chimpo:5>\n<city:1>\n<en:Fuckboy B>",
         "profile": ""
@@ -581,7 +581,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "チャラい男C",
+        "name": "Flirty Man C",
         "nickname": "",
         "note": "<chimpo:4>\n<city:1>\n<en:Fuckboy C>",
         "profile": ""
@@ -604,7 +604,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客",
+        "name": "Bar Patron",
         "nickname": "",
         "note": "\n<sakaba:1>\n<chimpo:6>\n<en:Bar Guests>",
         "profile": ""
@@ -627,7 +627,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場の客(おなほ)",
+        "name": "Bar Patron (Onaho)",
         "nickname": "",
         "note": "\n<sakaba:1>\n<chimpo:1>",
         "profile": ""
@@ -696,7 +696,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "冒険者",
+        "name": "Adventurer",
         "nickname": "",
         "note": "<city:1>\n<chimpo:7>\n<en:Adventurer>",
         "profile": ""
@@ -719,7 +719,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "キモいおじさん",
+        "name": "Creepy Old Man",
         "nickname": "",
         "note": "<city:1>\n<chimpo:5>\n<en:Gross Man>",
         "profile": ""
@@ -742,7 +742,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "いかつい冒険者",
+        "name": "Intimidating Adventurer",
         "nickname": "",
         "note": "<city:1>\n<chimpo:7>\n<en:Stern Adventurer>",
         "profile": ""
@@ -765,7 +765,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "筋肉質な冒険者",
+        "name": "Muscular Adventurer",
         "nickname": "",
         "note": "<city:1>\n<chimpo:8>\n<en:Muscular Adventurer>",
         "profile": ""
@@ -788,7 +788,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "赤ちゃん",
+        "name": "Baby",
         "nickname": "",
         "note": "<en:baby>",
         "profile": ""
@@ -811,7 +811,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "名も知らぬ男",
+        "name": "Nameless Man",
         "nickname": "",
         "note": "<city:1>\n<chimpo:2>\n<en:Nameless Man>",
         "profile": ""
@@ -834,7 +834,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさんA",
+        "name": "Old Man A",
         "nickname": "",
         "note": "<en:Man A>",
         "profile": ""
@@ -857,7 +857,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさんB",
+        "name": "Old Man B",
         "nickname": "",
         "note": "<en:Man B>",
         "profile": ""
@@ -880,7 +880,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "おっさんC",
+        "name": "Old Man C",
         "nickname": "",
         "note": "<en:Man C>",
         "profile": ""
@@ -903,7 +903,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人A",
+        "name": "Villager A",
         "nickname": "",
         "note": "<en:Man A>",
         "profile": ""
@@ -926,7 +926,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人B",
+        "name": "Villager B",
         "nickname": "",
         "note": "<en:Man B>",
         "profile": ""
@@ -949,7 +949,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人C",
+        "name": "Villager C",
         "nickname": "",
         "note": "<en:Man C>",
         "profile": ""
@@ -972,7 +972,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "村人D",
+        "name": "Villager D",
         "nickname": "",
         "note": "<en:Man D>",
         "profile": ""
@@ -995,7 +995,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "冒険者A",
+        "name": "Adventurer A",
         "nickname": "",
         "note": "<en:Adventurer A>",
         "profile": ""
@@ -1018,7 +1018,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "冒険者B",
+        "name": "Adventurer B",
         "nickname": "",
         "note": "<en:Adventurer B>",
         "profile": ""
@@ -1041,7 +1041,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "冒険者C",
+        "name": "Adventurer C",
         "nickname": "",
         "note": "<en:Adventurer C>",
         "profile": ""
@@ -1064,7 +1064,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "冒険者D",
+        "name": "Adventurer D",
         "nickname": "",
         "note": "<en:Adventurer D>",
         "profile": ""
@@ -1087,7 +1087,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ファフニール",
+        "name": "Fafnir",
         "nickname": "",
         "note": "<en:Fafnir>",
         "profile": ""
@@ -1179,7 +1179,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "武器屋の友人のおじさん",
+        "name": "Friend of the Weapon Shop Uncle",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1202,7 +1202,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "パン屋のおじさん",
+        "name": "Bakery Uncle",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1225,7 +1225,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "武器屋のおじさん",
+        "name": "Weapon Shop Uncle",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1248,7 +1248,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "酒場のマスター",
+        "name": "Master of the Tavern",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1271,7 +1271,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "浮浪者のおじいさん",
+        "name": "Homeless Old Man",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1294,7 +1294,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷の子供",
+        "name": "Slave Child",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1317,7 +1317,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "奴隷商人",
+        "name": "Slave Trader",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -1386,7 +1386,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "売春相手",
+        "name": "Prostitute",
         "nickname": "",
         "note": "<en:Prostitution partner>",
         "profile": ""
@@ -1409,7 +1409,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "売春相手の男",
+        "name": "Prostitute's Client",
         "nickname": "",
         "note": "<en:Unknown>",
         "profile": ""
@@ -2329,7 +2329,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "フェアリー",
+        "name": "Fairy",
         "nickname": "",
         "note": "",
         "profile": ""

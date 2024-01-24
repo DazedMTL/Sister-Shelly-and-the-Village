@@ -3,11 +3,11 @@
     {
         "id": 1,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 2192,
-        "name": "クロースアーマー",
+        "name": "Cloth Armor",
         "note": "<plus:1>\n<rank:1>\n<en:Cloth Armor>\n<icon:32>",
         "params": [
             8,
@@ -24,7 +24,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 4,
         "traits": [
             {
@@ -34,7 +34,7 @@
             }
         ],
         "iconIndex": 2193,
-        "name": "ハードレザー",
+        "name": "Hard Leather",
         "note": "<plus:2>\n<rank:2>\n<en:Hard Leather>\n<icon:33>",
         "params": [
             14,
@@ -61,7 +61,7 @@
             }
         ],
         "iconIndex": 2194,
-        "name": "チェインメイル",
+        "name": "Chain Mail",
         "note": "<plus:3>\n<rank:3>\n<en:Chain Mail>\n<icon:34>",
         "params": [
             21,
@@ -88,7 +88,7 @@
             }
         ],
         "iconIndex": 2195,
-        "name": "プレートアーマー",
+        "name": "Plate Armor",
         "note": "<plus:4>\n<rank:4>\n<en:Plate Armor>\n<icon:35>",
         "params": [
             28,
@@ -115,7 +115,7 @@
             }
         ],
         "iconIndex": 2196,
-        "name": "エルヴンマント",
+        "name": "Elven Cloak",
         "note": "\n<rank:5>\n<en:Elven Cloak>\n<icon:36>",
         "params": [
             36,
@@ -142,7 +142,7 @@
             }
         ],
         "iconIndex": 2197,
-        "name": "ミスリルプレート",
+        "name": "Mithril Plate",
         "note": "\n<rank:6>\n<en:Mithril Plate>\n<icon:37>",
         "params": [
             44,
@@ -169,7 +169,7 @@
             }
         ],
         "iconIndex": 2198,
-        "name": "悪魔の鎧",
+        "name": "Demon's Armor",
         "note": "\n<rank:7>\n<en:Devil's Armor>\n<icon:38>",
         "params": [
             52,
@@ -196,7 +196,7 @@
             }
         ],
         "iconIndex": 2199,
-        "name": "ドラゴンアーマー",
+        "name": "Dragon Armor",
         "note": "\n<rank:8>\n<en:Dragon Armor>\n\n<icon:39>",
         "params": [
             60,
@@ -223,7 +223,7 @@
             }
         ],
         "iconIndex": 2200,
-        "name": "勇者の鎧",
+        "name": "Hero's Armor",
         "note": "\n<rank:9>\n<en:Hero's Armor>\n<icon:40>",
         "params": [
             68,
@@ -277,7 +277,7 @@
             }
         ],
         "iconIndex": 2208,
-        "name": "帽子",
+        "name": "Hat",
         "note": "<plus:1>\n<rank:1>\n<en:Hat>\n<icon:48>",
         "params": [
             9,
@@ -304,7 +304,7 @@
             }
         ],
         "iconIndex": 2209,
-        "name": "羽帽子",
+        "name": "Feathered Hat",
         "note": "\n<rank:2>\n<en:Feather Hat>\n<icon:49>",
         "params": [
             17,
@@ -331,7 +331,7 @@
             }
         ],
         "iconIndex": 2210,
-        "name": "チェインヘルム",
+        "name": "Chain Helm",
         "note": "\n<rank:3>\n<en:Chain Helm>\n<icon:50>",
         "params": [
             24,
@@ -358,7 +358,7 @@
             }
         ],
         "iconIndex": 2211,
-        "name": "鉄のかぶと",
+        "name": "Iron Helmet",
         "note": "\n<rank:4>\n<en:Standard Helm>\n<icon:51>",
         "params": [
             32,
@@ -385,7 +385,7 @@
             }
         ],
         "iconIndex": 2212,
-        "name": "マジカルハット",
+        "name": "Magical Hat",
         "note": "\n<rank:5>\n<en:Magical Hat>\n<icon:52>",
         "params": [
             40,
@@ -412,7 +412,7 @@
             }
         ],
         "iconIndex": 2213,
-        "name": "ミスリルヘルム",
+        "name": "Mithril Helm",
         "note": "\n<rank:6>\n<en:Mithril Helm>\n<icon:53>",
         "params": [
             48,
@@ -439,7 +439,7 @@
             }
         ],
         "iconIndex": 2214,
-        "name": "悪魔のかぶと",
+        "name": "Demon's Helmet",
         "note": "\n<rank:7>\n<en:Devil's Helm>\n<icon:54>",
         "params": [
             56,
@@ -466,7 +466,7 @@
             }
         ],
         "iconIndex": 2215,
-        "name": "ドラゴンヘルム",
+        "name": "Dragon Helm",
         "note": "\n<rank:8>\n\n<en:Dragon Helm>\n<icon:55>",
         "params": [
             62,
@@ -493,7 +493,7 @@
             }
         ],
         "iconIndex": 2216,
-        "name": "勇者のかぶと",
+        "name": "Hero's Helmet",
         "note": "\n<rank:9>\n<en:Hero's Helm>\n<icon:56>",
         "params": [
             68,
@@ -537,7 +537,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -547,7 +547,7 @@
             }
         ],
         "iconIndex": 2224,
-        "name": "皮のブーツ",
+        "name": "Leather Boots",
         "note": "<plus:2>\n<rank:1>\n<en:Leather Boots>\n<icon:64>",
         "params": [
             6,
@@ -564,7 +564,7 @@
     {
         "id": 22,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -574,7 +574,7 @@
             }
         ],
         "iconIndex": 2225,
-        "name": "ロングブーツ",
+        "name": "Long Boots",
         "note": "\n<rank:2>\n<en:Long Boots>\n<icon:65>",
         "params": [
             10,
@@ -591,7 +591,7 @@
     {
         "id": 23,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -601,7 +601,7 @@
             }
         ],
         "iconIndex": 2226,
-        "name": "アイアンブーツ",
+        "name": "Iron Boots",
         "note": "<plus:3>\n<rank:3>\n<en:Iron Boots>\n<icon:66>",
         "params": [
             18,
@@ -618,7 +618,7 @@
     {
         "id": 24,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -628,7 +628,7 @@
             }
         ],
         "iconIndex": 2227,
-        "name": "シーフブーツ",
+        "name": "Thief Boots",
         "note": "<plus:4>\n<rank:4>\n<en:Thief’s Boots>\n<icon:67>",
         "params": [
             24,
@@ -645,7 +645,7 @@
     {
         "id": 25,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -655,7 +655,7 @@
             }
         ],
         "iconIndex": 2228,
-        "name": "エルヴンブーツ",
+        "name": "Elven Boots",
         "note": "\n<rank:5>\n<en:Elven Boots>\n<icon:68>",
         "params": [
             32,
@@ -672,7 +672,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -682,7 +682,7 @@
             }
         ],
         "iconIndex": 2229,
-        "name": "ミスリルブーツ",
+        "name": "Mithril Boots",
         "note": "\n<rank:6>\n<en:Mithril Boots>\n<icon:69>",
         "params": [
             40,
@@ -699,7 +699,7 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -709,7 +709,7 @@
             }
         ],
         "iconIndex": 2230,
-        "name": "悪魔の靴",
+        "name": "Demon's Shoes",
         "note": "\n<rank:7>\n<en:Devil's Boots>\n\n<icon:70>",
         "params": [
             48,
@@ -726,7 +726,7 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -736,7 +736,7 @@
             }
         ],
         "iconIndex": 2231,
-        "name": "ドラゴンブーツ",
+        "name": "Dragon Boots",
         "note": "\n<rank:8>\n<en:Dragon Boots>\n<icon:71>",
         "params": [
             54,
@@ -753,7 +753,7 @@
     {
         "id": 29,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "A ring that increases defense by 1",
         "etypeId": 8,
         "traits": [
             {
@@ -763,7 +763,7 @@
             }
         ],
         "iconIndex": 2232,
-        "name": "勇者の靴",
+        "name": "Hero's Shoes",
         "note": "\n<rank:9>\n<en:Hero's Boots>\n<icon:72>",
         "params": [
             60,
@@ -817,7 +817,7 @@
             }
         ],
         "iconIndex": 448,
-        "name": "バックラー",
+        "name": "Buckler",
         "note": "<plus:1>\n<rank:1>",
         "params": [
             0,
@@ -844,7 +844,7 @@
             }
         ],
         "iconIndex": 448,
-        "name": "アイアンシールド",
+        "name": "Iron Shield",
         "note": "<plus:2>\n<rank:2>",
         "params": [
             0,
@@ -871,7 +871,7 @@
             }
         ],
         "iconIndex": 449,
-        "name": "騎士の盾",
+        "name": "Knight's Shield",
         "note": "<plus:3>\n<rank:3>",
         "params": [
             0,
@@ -898,7 +898,7 @@
             }
         ],
         "iconIndex": 449,
-        "name": "スケイルシールド",
+        "name": "Scale Shield",
         "note": "<plus:4>\n<rank:4>",
         "params": [
             0,
@@ -925,7 +925,7 @@
             }
         ],
         "iconIndex": 449,
-        "name": "ミスリルシールド",
+        "name": "Mithril Shield",
         "note": "<plus:5>\n<rank:5>",
         "params": [
             0,
@@ -1347,7 +1347,7 @@
     {
         "id": 51,
         "atypeId": 1,
-        "description": "転送に耐えられる盾",
+        "description": "A shield that can withstand teleportation",
         "etypeId": 4,
         "traits": [
             {
@@ -1357,7 +1357,7 @@
             }
         ],
         "iconIndex": 320,
-        "name": "未装備",
+        "name": "Unequipped",
         "note": "<rank:0>",
         "params": [
             0,
@@ -2572,7 +2572,7 @@
             }
         ],
         "iconIndex": 392,
-        "name": "オリハルコンの祈祷具",
+        "name": "Orichalcum Prayer Tool",
         "note": "\n<dmgBonus:15>",
         "params": [
             0,
@@ -2670,7 +2670,7 @@
     {
         "id": 100,
         "atypeId": 0,
-        "description": "１階層すすむごとにHPが２回復する",
+        "description": "HP recovers by 2 for every floor advanced",
         "etypeId": 2,
         "traits": [
             {
@@ -2680,7 +2680,7 @@
             }
         ],
         "iconIndex": 392,
-        "name": "回復の祈り",
+        "name": "Healing Prayer",
         "note": "<pan:1>\n<wine:1>\n<floorHpPlus:2>\n<en:Prayer of Recovery>\n<enDesc:Advancing one layer restores HP by 2>",
         "params": [
             0,
@@ -2697,7 +2697,7 @@
     {
         "id": 101,
         "atypeId": 0,
-        "description": "１階層すすむごとにさらにHPが４回復する",
+        "description": "HP recovers by an additional 4 for every floor advanced",
         "etypeId": 2,
         "traits": [
             {
@@ -2707,7 +2707,7 @@
             }
         ],
         "iconIndex": 392,
-        "name": "フロア回復＋４",
+        "name": "Floor Recovery +4",
         "note": "<before:100>\n<pan:1>\n<wine:1>\n<floorHpPlus:4>\n<en:Stage Recovery+4>\n<enDesc:Advancing one layer restores HP by 4>",
         "params": [
             0,
@@ -2724,7 +2724,7 @@
     {
         "id": 102,
         "atypeId": 0,
-        "description": "１階層すすむごとにさらにHPが５回復する",
+        "description": "HP recovers by an additional 5 for every floor advanced",
         "etypeId": 2,
         "traits": [
             {
@@ -2734,7 +2734,7 @@
             }
         ],
         "iconIndex": 392,
-        "name": "フロア回復＋５",
+        "name": "Floor Recovery +5",
         "note": "<before:101>\n<pan:2>\n<wine:2>\n<floorHpPlus:5>\n<en:Stage Recovery+5>\n<enDesc:Advancing one layer restores HP by 5>",
         "params": [
             0,
@@ -2751,7 +2751,7 @@
     {
         "id": 103,
         "atypeId": 0,
-        "description": "薬草での回復量が１０％増加する",
+        "description": "The amount recovered by medicinal herbs increases by 10%",
         "etypeId": 2,
         "traits": [
             {
@@ -2761,7 +2761,7 @@
             }
         ],
         "iconIndex": 501,
-        "name": "薬草回復＋10％",
+        "name": "Herb Recovery +10%",
         "note": "<before:102>\n<pan:3>\n<wine:2>\n<yakusouPlus:10>\n<en:Herb Recovery+10％>\n<enDesc:Recovery with medicinal herbs are increased by 10％>",
         "params": [
             0,
@@ -2778,7 +2778,7 @@
     {
         "id": 104,
         "atypeId": 0,
-        "description": "薬草での回復量が１５％増加する",
+        "description": "The amount recovered by medicinal herbs increases by 15%",
         "etypeId": 2,
         "traits": [
             {
@@ -2788,7 +2788,7 @@
             }
         ],
         "iconIndex": 501,
-        "name": "薬草回復＋15％",
+        "name": "Herb Recovery +15%",
         "note": "<before:103>\n<pan:4>\n<wine:3>\n<yakusouPlus:15>\n<en:Herb Recovery+15％>\n<enDesc:Recovery with medicinal herbs are increased by 15％>",
         "params": [
             0,
@@ -2967,7 +2967,7 @@
     {
         "id": 111,
         "atypeId": 0,
-        "description": "命中値が増加する",
+        "description": "Accuracy value increases",
         "etypeId": 2,
         "traits": [
             {
@@ -2977,7 +2977,7 @@
             }
         ],
         "iconIndex": 462,
-        "name": "命中＋４",
+        "name": "Accuracy +4",
         "note": "<before:101>\n<pan:2>\n<wine:2>\n<en:Hit +5％>\n<enDesc:Increases hit chance>",
         "params": [
             0,
@@ -2994,7 +2994,7 @@
     {
         "id": 112,
         "atypeId": 0,
-        "description": "命中値が増加する",
+        "description": "Accuracy increases",
         "etypeId": 2,
         "traits": [
             {
@@ -3004,7 +3004,7 @@
             }
         ],
         "iconIndex": 462,
-        "name": "命中＋５",
+        "name": "Accuracy +5",
         "note": "<before:102>\n<pan:2>\n<wine:3>\n<en:Hit +5％>\n<enDesc:Increases hit chance>",
         "params": [
             0,
@@ -3021,7 +3021,7 @@
     {
         "id": 113,
         "atypeId": 0,
-        "description": "命中値が増加する",
+        "description": "Accuracy increases",
         "etypeId": 2,
         "traits": [
             {
@@ -3031,7 +3031,7 @@
             }
         ],
         "iconIndex": 462,
-        "name": "命中＋６",
+        "name": "Accuracy +6",
         "note": "<before:103>\n<pan:3>\n<wine:3>\n<en:Hit +6％>\n<enDesc:Increases hit chance>",
         "params": [
             0,
@@ -3048,7 +3048,7 @@
     {
         "id": 114,
         "atypeId": 0,
-        "description": "薬草での回復量が２０％増加する",
+        "description": "The amount healed by herbs increases by 20%",
         "etypeId": 2,
         "traits": [
             {
@@ -3058,7 +3058,7 @@
             }
         ],
         "iconIndex": 501,
-        "name": "薬草回復＋20％",
+        "name": "Herb Healing +20%",
         "note": "<before:104>\n<pan:4>\n<wine:3>\n<yakusouPlus:20>\n<en:Herb Recovery+20％>\n<enDesc:Recovery with medicinal herbs are increased by 20％>",
         "params": [
             0,
@@ -3210,7 +3210,7 @@
     {
         "id": 120,
         "atypeId": 0,
-        "description": "ダメージを２カットする",
+        "description": "Damage is reduced by 2",
         "etypeId": 2,
         "traits": [
             {
@@ -3220,7 +3220,7 @@
             }
         ],
         "iconIndex": 401,
-        "name": "守護の祈り",
+        "name": "Guardian's Prayer",
         "note": "<pan:2>\n<before:100>\n<reduceDmg:2>\n<en:Prayer of Protection>\n<enDesc:Resists 2 damage>",
         "params": [
             0,
@@ -3237,11 +3237,11 @@
     {
         "id": 121,
         "atypeId": 0,
-        "description": "ダメージを２カットする",
+        "description": "Damage is reduced by 2",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 401,
-        "name": "守護＋２",
+        "name": "Protection +2",
         "note": "<pan:3>\n<before:120>\n<reduceDmg:2>\n<en:Protection +2>\n<enDesc:Resists 2 damage>",
         "params": [
             0,
@@ -3258,11 +3258,11 @@
     {
         "id": 122,
         "atypeId": 0,
-        "description": "ダメージを２カットする",
+        "description": "Damage is reduced by 2",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 401,
-        "name": "守護＋２",
+        "name": "Protection +2",
         "note": "<pan:4>\n<before:121>\n<reduceDmg:2>\n<en:Protection +2>\n<enDesc:Resists 2 damage>",
         "params": [
             0,
@@ -3279,11 +3279,11 @@
     {
         "id": 123,
         "atypeId": 0,
-        "description": "ダメージを２カットする",
+        "description": "Damage is reduced by 2",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 401,
-        "name": "守護＋２",
+        "name": "Protection +2",
         "note": "<pan:5>\n<before:122>\n<reduceDmg:2>\n<en:Protection +2>\n<enDesc:Resists 2 damage>",
         "params": [
             0,
@@ -3300,11 +3300,11 @@
     {
         "id": 124,
         "atypeId": 0,
-        "description": "ダメージを３カットする",
+        "description": "Damage is reduced by 3",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 401,
-        "name": "守護＋３",
+        "name": "Protection +3",
         "note": "<pan:6>\n<before:123>\n<reduceDmg:3>\n<en:Protection +3>\n<enDesc:Resists 3 damage>",
         "params": [
             0,
@@ -3483,11 +3483,11 @@
     {
         "id": 131,
         "atypeId": 0,
-        "description": "獲得経験値が＋１５％される（重複した効果は加算）",
+        "description": "Gained EXP is increased by +15% (stacking effects are cumulative)",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 157,
-        "name": "経験値＋15％",
+        "name": "EXP +15%",
         "note": "<before:121>\n<wine:2>\n<exp:15>\n<en:EXP ＋15％>\n<enDesc:All experience gained is increased by+15％\\\\n (duplicate effects are added)>",
         "params": [
             0,
@@ -3504,11 +3504,11 @@
     {
         "id": 132,
         "atypeId": 0,
-        "description": "獲得経験値が＋１５％される（重複した効果は加算）",
+        "description": "Gained EXP is increased by +15% (stacking effects are cumulative)",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 157,
-        "name": "経験値＋15％",
+        "name": "EXP +15%",
         "note": "<before:122>\n<wine:3>\n<exp:15>\n<en:EXP ＋15％>\n<enDesc:All experience gained is increased by+15％\\\\n (duplicate effects are added)>",
         "params": [
             0,
@@ -3525,11 +3525,11 @@
     {
         "id": 133,
         "atypeId": 0,
-        "description": "獲得経験値が＋２０％される（重複した効果は加算）",
+        "description": "Gained EXP is increased by +20% (stacking effects are cumulative)",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 157,
-        "name": "経験値＋20％",
+        "name": "EXP +20%",
         "note": "<before:123>\n<wine:3>\n<exp:20>\n<en:EXP ＋20％>\n<enDesc:All experience gained is increased by+20％\\\\n (duplicate effects are added)>",
         "params": [
             0,
@@ -3546,11 +3546,11 @@
     {
         "id": 134,
         "atypeId": 0,
-        "description": "獲得Ｇが＋２０％される",
+        "description": "Gained G is increased by +20%",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 634,
-        "name": "Ｇ＋20％",
+        "name": "G +20%",
         "note": "<before:124>\n<wine:3>\n<gold:20>\n\n<enDesc:All G gained is increased by＋20％>",
         "params": [
             0,
@@ -3702,7 +3702,7 @@
     {
         "id": 140,
         "atypeId": 0,
-        "description": "必殺技の威力があがる（＋１０％）",
+        "description": "Special move power increases (+10%)",
         "etypeId": 2,
         "traits": [
             {
@@ -3712,7 +3712,7 @@
             }
         ],
         "iconIndex": 157,
-        "name": "勝利の祈り",
+        "name": "Victory's Prayer",
         "note": "<pan:0>\n<before:100>\n<wine:2>\n<waza:10>\n\n<en:Prayer of Victory>\n<enDesc:Increases special move power(+10％)>",
         "params": [
             0,
@@ -3729,7 +3729,7 @@
     {
         "id": 141,
         "atypeId": 0,
-        "description": "必殺技の威力があがる（＋１０％）",
+        "description": "Special move power increases (+10%)",
         "etypeId": 2,
         "traits": [
             {
@@ -3739,7 +3739,7 @@
             }
         ],
         "iconIndex": 157,
-        "name": "必殺技＋10％",
+        "name": "Special Move +10%",
         "note": "<before:140>\n<pan:1>\n<wine:1>\n<waza:10>\n\n<en:Special move +10％>\n<enDesc:Increases special move power (+10％)>",
         "params": [
             0,
@@ -3756,7 +3756,7 @@
     {
         "id": 142,
         "atypeId": 0,
-        "description": "必殺技の威力があがる（＋１０％）",
+        "description": "Special move power increases (+10%)",
         "etypeId": 2,
         "traits": [
             {
@@ -3766,7 +3766,7 @@
             }
         ],
         "iconIndex": 157,
-        "name": "必殺技＋10％",
+        "name": "Special Move +10%",
         "note": "<before:141>\n<pan:1>\n<wine:2>\n<waza:10>\n\n<en:Special move +10％>\n<enDesc:Increases special move power (+10％)>",
         "params": [
             0,
@@ -3783,7 +3783,7 @@
     {
         "id": 143,
         "atypeId": 0,
-        "description": "必殺技の威力があがる（＋１０％）",
+        "description": "Special move power increases (+10%)",
         "etypeId": 2,
         "traits": [
             {
@@ -3793,7 +3793,7 @@
             }
         ],
         "iconIndex": 157,
-        "name": "必殺技＋10％",
+        "name": "Special Move +10%",
         "note": "<before:142>\n<pan:2>\n<wine:2>\n<waza:10>\n<en:Special move +10％>\n<enDesc:Increases special move power (+10％)>",
         "params": [
             0,
@@ -3810,7 +3810,7 @@
     {
         "id": 144,
         "atypeId": 0,
-        "description": "必殺技の威力があがる（＋１５％）",
+        "description": "Special move power increases (+15%)",
         "etypeId": 2,
         "traits": [
             {
@@ -3820,7 +3820,7 @@
             }
         ],
         "iconIndex": 157,
-        "name": "必殺技＋15％",
+        "name": "Special Move +15%",
         "note": "<before:143>\n<pan:3>\n<wine:3>\n<waza:15>\n<en:Special move +15％>\n<enDesc:Increases special move power (+15％)>",
         "params": [
             0,
@@ -3864,7 +3864,7 @@
     {
         "id": 146,
         "atypeId": 0,
-        "description": "卵子耐久度がさがりやすくなる（＋２０％）",
+        "description": "Ovum endurance decreases more easily (+20%)",
         "etypeId": 2,
         "traits": [
             {
@@ -3874,7 +3874,7 @@
             }
         ],
         "iconIndex": 404,
-        "name": "懐妊の祈り",
+        "name": "Pregnancy Prayer",
         "note": "<pan:0>\n<wine:2>\n<ninshin:20>",
         "params": [
             0,
@@ -3891,7 +3891,7 @@
     {
         "id": 147,
         "atypeId": 0,
-        "description": "卵子耐久度がさがりやすくなる（＋２０％）",
+        "description": "Ovum endurance decreases more easily (+20%)",
         "etypeId": 2,
         "traits": [
             {
@@ -3901,7 +3901,7 @@
             }
         ],
         "iconIndex": 404,
-        "name": "妊娠しやすさ＋",
+        "name": "Fertility Increase +",
         "note": "<before:140>\n<pan:1>\n<wine:1>\n<ninshin:20>",
         "params": [
             0,
@@ -3918,7 +3918,7 @@
     {
         "id": 148,
         "atypeId": 0,
-        "description": "卵子耐久度がさがりやすくなる（＋２０％）",
+        "description": "Ovum endurance decreases more easily (+20%)",
         "etypeId": 2,
         "traits": [
             {
@@ -3928,7 +3928,7 @@
             }
         ],
         "iconIndex": 404,
-        "name": "妊娠しやすさ＋",
+        "name": "Fertility Increase +",
         "note": "<before:141>\n<pan:1>\n<wine:1>\n<ninshin:20>",
         "params": [
             0,
@@ -3999,7 +3999,7 @@
     {
         "id": 151,
         "atypeId": 0,
-        "description": "出産時のボーナスダメージが＋１％",
+        "description": "Bonus damage at birth +1%",
         "etypeId": 2,
         "traits": [
             {
@@ -4009,7 +4009,7 @@
             }
         ],
         "iconIndex": 2055,
-        "name": "出産ボーナス＋１",
+        "name": "Birth Bonus +1",
         "note": "<before:141>\n<pan:2>\n<wine:2>\n<syusanDmg:1>\n\n<en:Childbirth Bonus>\n<enDesc:Increases damage by 1％ during childbirth>",
         "params": [
             0,
@@ -4026,7 +4026,7 @@
     {
         "id": 152,
         "atypeId": 0,
-        "description": "出産時のボーナスダメージが＋２％",
+        "description": "Bonus damage at birth +2%",
         "etypeId": 2,
         "traits": [
             {
@@ -4036,7 +4036,7 @@
             }
         ],
         "iconIndex": 2055,
-        "name": "出産ボーナス＋２",
+        "name": "Birth Bonus +2",
         "note": "<before:142>\n<pan:3>\n<wine:3>\n<syusanDmg:2>\n\n\n<en:Childbirth Bonus>\n<enDesc:Increases damage by 2％ during childbirth>",
         "params": [
             0,
@@ -4053,7 +4053,7 @@
     {
         "id": 153,
         "atypeId": 0,
-        "description": "必殺技の威力があがる（＋１５％）",
+        "description": "Special move power increases (+15%)",
         "etypeId": 2,
         "traits": [
             {
@@ -4063,7 +4063,7 @@
             }
         ],
         "iconIndex": 157,
-        "name": "必殺技＋15％",
+        "name": "Special Move +15%",
         "note": "<before:143>\n<pan:3>\n<wine:3>\n<waza:15>\n\n\n<en:Special move +15％>\n<enDesc:Increases special move power (+15％)>",
         "params": [
             0,
@@ -4080,7 +4080,7 @@
     {
         "id": 154,
         "atypeId": 0,
-        "description": "宝箱から装備がでる確率が上がる",
+        "description": "The chance of getting equipment from treasure chests increases",
         "etypeId": 2,
         "traits": [
             {
@@ -4090,7 +4090,7 @@
             }
         ],
         "iconIndex": 530,
-        "name": "宝箱",
+        "name": "Treasure Chest",
         "note": "<before:144>\n<pan:4>\n<wine:4>\n\n<en:Treasure>\n<enDesc:Increases the chance of getting equipment \nout of the treasure chest>",
         "params": [
             0,
@@ -5386,7 +5386,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "チョーカー",
+        "name": "Choker",
         "note": "<middleAcce:2>\n<acce:2>\n<en:Choker>",
         "params": [
             0,
@@ -5413,7 +5413,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "首輪",
+        "name": "Collar",
         "note": "<frontAcce:3>\n<acce:3>\n<en:Necklace>\n",
         "params": [
             0,
@@ -5440,7 +5440,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液",
+        "name": "Dripping Semen",
         "note": "<frontAcce:4>\n<acce:4>\n",
         "params": [
             0,
@@ -5467,7 +5467,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "リボン",
+        "name": "Ribbon",
         "note": "<frontAcce:5>\n<acce:5>\n<en:Ribbon>",
         "params": [
             0,
@@ -5494,7 +5494,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "乳首ピアス",
+        "name": "Nipple Piercing",
         "note": "<skinAcce:6>\n<acce:6>\n<en:Nipple Ring>\n",
         "params": [
             0,
@@ -5521,7 +5521,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "首輪2",
+        "name": "Collar 2",
         "note": "<middleAcce:7>\n<acce:7>\n<en:Necklace2>\n",
         "params": [
             0,
@@ -5548,7 +5548,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "猫耳",
+        "name": "Cat Ears",
         "note": "<backAcce:8>\n<acce:8>\n<en:Cat ear>",
         "params": [
             0,
@@ -5575,7 +5575,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "シスターのヴェール",
+        "name": "Sister's Veil",
         "note": "<frontAcce:9>\n<acce:9>\n<en:Nun's Veil>",
         "params": [
             0,
@@ -5602,7 +5602,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "バニーの耳",
+        "name": "Bunny Ears",
         "note": "<frontAcce:10>\n<acce:10>\n<en:Bunny Ears>",
         "params": [
             0,
@@ -5629,7 +5629,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ハイビスカス",
+        "name": "Hibiscus",
         "note": "<frontAcce:11>\n<acce:11>\n<en:Hibiscus>",
         "params": [
             0,
@@ -5656,7 +5656,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "新婦のヴェール",
+        "name": "Bride's Veil",
         "note": "<frontAcce:12>\n<acce:12>\n<en:Bride's Veil>",
         "params": [
             0,
@@ -5683,7 +5683,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "鼻フック",
+        "name": "Nose Hook",
         "note": "<frontAcce:13>\n<acce:13>\n<en:Nose Hook>",
         "params": [
             0,
@@ -5710,7 +5710,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "小悪魔の角",
+        "name": "Little Devil's Horns",
         "note": "<frontAcce:14>\n<acce:14>\n",
         "params": [
             0,
@@ -5737,7 +5737,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "小悪魔の羽",
+        "name": "Little Devil's Wings",
         "note": "<backAcce:15>\n<acce:15>\n",
         "params": [
             0,
@@ -5764,7 +5764,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首",
+        "name": "Black Nipples",
         "note": "<skinAcce:16>\n<acce:16>\n<en:Black nipple>",
         "params": [
             0,
@@ -5791,7 +5791,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "張り手の跡",
+        "name": "Slap Marks",
         "note": "<skinAcce:17>\n<acce:17>\n<en:Imprint From Face Slapping>",
         "params": [
             0,
@@ -5818,7 +5818,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "目隠し",
+        "name": "Blindfold",
         "note": "<frontAcce:18>\n<acce:18>\n<en:Blindfold>",
         "params": [
             0,
@@ -5845,7 +5845,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ボールギャグ",
+        "name": "Ball Gag",
         "note": "<frontAcce:19>\n<acce:19>\n<en:Ball Gag>",
         "params": [
             0,
@@ -5899,7 +5899,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "中出し精液",
+        "name": "Cream Pie Semen",
         "note": "<frontAcce:21>\n<acce:21>\n",
         "params": [
             0,
@@ -5926,7 +5926,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きA",
+        "name": "Graffiti A",
         "note": "<skinAcce:22>\n<acce:22>\n<en:Graffiti A>\n<bote>",
         "params": [
             0,
@@ -5953,7 +5953,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きB",
+        "name": "Graffiti B",
         "note": "<skinAcce:23>\n<acce:23>\n<en:Graffiti B>\n<bote>",
         "params": [
             0,
@@ -5980,7 +5980,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "落書きC",
+        "name": "Graffiti C",
         "note": "<skinAcce:24>\n<acce:24>\n<en:Graffiti C>",
         "params": [
             0,
@@ -6034,7 +6034,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "避妊のお守り",
+        "name": "Contraceptive Charm",
         "note": "\n<acce:102>\n\n<group:226>\n<en:Amulet of Contraceptive>",
         "params": [
             0,
@@ -6061,7 +6061,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "懐妊のお守り",
+        "name": "Fertility Charm",
         "note": "\n<acce:103>\n\n<group:226>\n<en:Amulet of Pregnancy>",
         "params": [
             0,
@@ -6169,7 +6169,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液A",
+        "name": "Semen A",
         "note": "<seiekiFront>\n<seieki>\n<acce:31>\n",
         "params": [
             0,
@@ -6196,7 +6196,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液B",
+        "name": "Semen B",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:32>\n",
         "params": [
             0,
@@ -6223,7 +6223,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液C",
+        "name": "Semen C",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:33>\n",
         "params": [
             0,
@@ -6250,7 +6250,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液D",
+        "name": "Semen D",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:34>\n",
         "params": [
             0,
@@ -6277,7 +6277,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液E",
+        "name": "Semen E",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:35>\n",
         "params": [
             0,
@@ -6304,7 +6304,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液F",
+        "name": "Semen F",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:36>\n",
         "params": [
             0,
@@ -6331,7 +6331,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液G",
+        "name": "Semen G",
         "note": "<seiekiFront>\n<seieki>\n<acce:37>\n",
         "params": [
             0,
@@ -6358,7 +6358,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液H",
+        "name": "Semen H",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:38>\n",
         "params": [
             0,
@@ -6385,7 +6385,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液I",
+        "name": "Semen I",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:39>\n",
         "params": [
             0,
@@ -6412,7 +6412,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液J",
+        "name": "Semen J",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:40>\n",
         "params": [
             0,
@@ -6439,7 +6439,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液K",
+        "name": "Semen K",
         "note": "<seiekiFront>\n<seieki>\n<acce:41>\n",
         "params": [
             0,
@@ -6466,7 +6466,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液L",
+        "name": "Semen L",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:42>\n",
         "params": [
             0,
@@ -6493,7 +6493,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液M",
+        "name": "Semen M",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:43>\n",
         "params": [
             0,
@@ -6520,7 +6520,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液N",
+        "name": "Semen N",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:44>\n",
         "params": [
             0,
@@ -6547,7 +6547,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液O",
+        "name": "Semen O",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:45>\n",
         "params": [
             0,
@@ -6574,7 +6574,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液P",
+        "name": "Semen P",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:46>\n",
         "params": [
             0,
@@ -6601,7 +6601,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液Q",
+        "name": "Semen Q",
         "note": "<seiekiFront>\n<seieki>\n<acce:47>\n",
         "params": [
             0,
@@ -6628,7 +6628,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液R",
+        "name": "Semen R",
         "note": "<seiekiFront>\n<seieki>\n<acce:48>\n",
         "params": [
             0,
@@ -6655,7 +6655,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液S",
+        "name": "Semen S",
         "note": "<seiekiFront>\n<seieki>\n<acce:49>\n",
         "params": [
             0,
@@ -6682,7 +6682,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液T",
+        "name": "Semen T",
         "note": "<seiekiFront>\n<seieki>\n<acce:50>\n",
         "params": [
             0,
@@ -6709,7 +6709,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液U",
+        "name": "Semen U",
         "note": "<seiekiFront>\n<seieki>\n<acce:51>\n",
         "params": [
             0,
@@ -6979,7 +6979,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液A",
+        "name": "Overflowing Semen A",
         "note": "<backAcce:61>\n<acce:61>\n<order:264>\n",
         "params": [
             0,
@@ -7006,7 +7006,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液B",
+        "name": "Overflowing Semen B",
         "note": "<backAcce:62>\n<acce:62>\n<order:263>",
         "params": [
             0,
@@ -7033,7 +7033,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液C",
+        "name": "Overflowing Semen C",
         "note": "<backAcce:63>\n<acce:63>\n<order:262>",
         "params": [
             0,
@@ -7060,7 +7060,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液D",
+        "name": "Overflowing Semen D",
         "note": "<backAcce:64>\n<acce:64>\n\n<order:261>",
         "params": [
             0,
@@ -7087,7 +7087,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液E",
+        "name": "Overflowing Semen E",
         "note": "<backAcce:65>\n<acce:65>\n\n<order:260>",
         "params": [
             0,
@@ -7114,7 +7114,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液A",
+        "name": "Dripping Semen A",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:66>\n",
         "params": [
             0,
@@ -7141,7 +7141,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液B",
+        "name": "Dripping Semen B",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:67>\n",
         "params": [
             0,
@@ -7168,7 +7168,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液C",
+        "name": "Dripping Semen C",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:68>\n",
         "params": [
             0,
@@ -7195,7 +7195,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液D",
+        "name": "Dripping Semen D",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:69>\n<poseD:69_d>",
         "params": [
             0,
@@ -7222,7 +7222,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液E",
+        "name": "Dripping Semen E",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:70>\n<poseD:70_d>",
         "params": [
             0,
@@ -7249,7 +7249,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "愛液A",
+        "name": "Love Juice A",
         "note": "\n<middleAcce:71>\n<acce:71>\n",
         "params": [
             0,
@@ -7276,7 +7276,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "愛液B",
+        "name": "Love Juice B",
         "note": "\n<middleAcce:72>\n<acce:72>\n",
         "params": [
             0,
@@ -7816,7 +7816,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "フェラ",
+        "name": "Fellatio",
         "note": "<frontAcce:92>\n<acce:92>\n",
         "params": [
             0,
@@ -7870,7 +7870,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "口精液",
+        "name": "Mouth Semen",
         "note": "<frontAcce:94>\n<acce:94>\n",
         "params": [
             0,
@@ -7978,7 +7978,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "濃いメイク",
+        "name": "Thick Makeup",
         "note": "\n<acce:98>\n<en:Heavy Makeup>",
         "params": [
             0,
@@ -8005,7 +8005,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒い肌",
+        "name": "Dark Skin",
         "note": "\n<acce:99>\n<en:Dark Skin>",
         "params": [
             0,
@@ -8302,7 +8302,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "トップスなし",
+        "name": "No Top",
         "note": "<outerTop:a>\n<en:No Top>",
         "params": [
             0,
@@ -8329,7 +8329,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "シスター服",
+        "name": "Nun Outfit",
         "note": "\n<outer:b>\n<order:309>\n<en:Nun Costume>",
         "params": [
             0,
@@ -8356,7 +8356,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ギャル服上",
+        "name": "Gal Outfit Top",
         "note": "\n<outerTop:c>\n<en:Gyaru Clothing (top half)>",
         "params": [
             0,
@@ -8383,7 +8383,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "体操服上",
+        "name": "Gym Clothes Top",
         "note": "\n<outerTop:d>\n<en:Gym Clothing (top half)>",
         "params": [
             0,
@@ -8410,7 +8410,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "水着",
+        "name": "Swimsuit",
         "note": "\n<outer:m>\n<order:309>\n<noInnerBottom>\n<noInnerTop>\n<en:Swimsuit>",
         "params": [
             0,
@@ -8437,7 +8437,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "セーラー服上",
+        "name": "Sailor Uniform Top",
         "note": "\n<outerTop:f>\n<en:Sailor Costume (top half)>",
         "params": [
             0,
@@ -8464,7 +8464,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "バニー服",
+        "name": "Bunny Outfit",
         "note": "\n<outer:i>\n<order:309>\n<noInnerBottom>\n<en:Bunny Costume>",
         "params": [
             0,
@@ -8491,7 +8491,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ネグリジェ(黒)",
+        "name": "Negligee (Black)",
         "note": "\n<outerTop:h>\n<en:Nightdress (black)>",
         "params": [
             0,
@@ -8518,7 +8518,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "バニースーツ",
+        "name": "Bunny Suit",
         "note": "\n<outerTop:i>\n<noInner>\n<en:Bunny Costume>",
         "params": [
             0,
@@ -8545,7 +8545,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "パジャマ",
+        "name": "Pajamas",
         "note": "\n<outerTop:j>\n<en:Pajamas>",
         "params": [
             0,
@@ -8572,7 +8572,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "裸エプロン",
+        "name": "Naked Apron",
         "note": "\n<outerTop:k>\n",
         "params": [
             0,
@@ -8599,7 +8599,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ネグリジェ(白)",
+        "name": "Negligee (White)",
         "note": "\n<outerTop:l>\n<en:Nightdress (white)>",
         "params": [
             0,
@@ -8626,7 +8626,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "小悪魔の服",
+        "name": "Little Devil's Outfit",
         "note": "\n<outer:o>\n<order:309>\n<en:Succubus Costume>",
         "params": [
             0,
@@ -8842,7 +8842,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ボトムスなし",
+        "name": "No Bottoms",
         "note": "<outerBottom:a>\n<en:No Bottoms>",
         "params": [
             0,
@@ -8896,7 +8896,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ギャル服下",
+        "name": "Gal Outfit Bottom",
         "note": "\n<outerBottom:c>\n<en:Gyaru Clothing (bottom half)>",
         "params": [
             0,
@@ -8923,7 +8923,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "体操服下",
+        "name": "Gym Clothes Bottom",
         "note": "\n<outerBottom:d>\n<en:Gym Clothing (bottom half)>",
         "params": [
             0,
@@ -8950,7 +8950,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "体操服下　半脱ぎ",
+        "name": "Gym Clothes Bottom Half-Off",
         "note": "\n<outerBottom:e>\n<en:Gym Clothing2 (bottom half)>",
         "params": [
             0,
@@ -8977,7 +8977,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "セーラー服下",
+        "name": "Sailor Uniform Bottom",
         "note": "\n<outerBottom:f>\n<en:Sailor Costume (bottom half)>",
         "params": [
             0,
@@ -9382,7 +9382,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "腕パーツなし",
+        "name": "No Arm Parts",
         "note": "<arm:a>\n",
         "params": [
             0,
@@ -9409,7 +9409,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ガントレット",
+        "name": "Gauntlet",
         "note": "<arm:b>\n",
         "params": [
             0,
@@ -9652,7 +9652,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "脚パーツなし",
+        "name": "No Leg Parts",
         "note": "<leg:a>\n<en:No Socks>",
         "params": [
             0,
@@ -9679,7 +9679,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "白ニーソ",
+        "name": "White Knee Socks",
         "note": "<leg:b>\n<en:White Knee-high Socks>",
         "params": [
             0,
@@ -9706,7 +9706,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "白ガーター",
+        "name": "White Garter Belt",
         "note": "<leg:c>\n<en:White Garter Belt>",
         "params": [
             0,
@@ -9733,7 +9733,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒ガーター",
+        "name": "Black Garter Belt",
         "note": "<leg:d>\n<en:Black Garter Belt>",
         "params": [
             0,
@@ -9760,7 +9760,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "タイツ",
+        "name": "Tights",
         "note": "<leg:e>\n<en:Tights>",
         "params": [
             0,
@@ -9787,7 +9787,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒ニーソ",
+        "name": "Black Knee Socks",
         "note": "<leg:f>\n<en:Black Knee-high Socks>",
         "params": [
             0,
@@ -9814,7 +9814,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショートソックス",
+        "name": "Short Socks",
         "note": "<leg:g>\n<en:Short Socks>",
         "params": [
             0,
@@ -9841,7 +9841,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ロングソックス",
+        "name": "Long Socks",
         "note": "<leg:h>\n<en:Long Socks>",
         "params": [
             0,
@@ -9922,7 +9922,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラなし",
+        "name": "No Bra",
         "note": "<innerTop:a>\n<en:No Bra>",
         "params": [
             0,
@@ -9949,7 +9949,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "白ブラ",
+        "name": "White Bra",
         "note": "<innerTop:b>\n<en:White Bra>",
         "params": [
             0,
@@ -9976,7 +9976,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "しましまブラ",
+        "name": "Striped Bra",
         "note": "<innerTop:e>\n<en:Striped Bra>",
         "params": [
             0,
@@ -10003,7 +10003,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ふんわりブラ",
+        "name": "Fluffy Bra",
         "note": "<innerTop:f>\n<en:Loose-fitting Bra>",
         "params": [
             0,
@@ -10030,7 +10030,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "青ブラ",
+        "name": "Blue Bra",
         "note": "<innerTop:g>\n<en:Blue Bra>",
         "params": [
             0,
@@ -10057,7 +10057,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ラバー下着",
+        "name": "Rubber Underwear",
         "note": "<innerTop:h>\n<en:Rubber Undies>",
         "params": [
             0,
@@ -10084,7 +10084,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒ブラ",
+        "name": "Black Bra",
         "note": "<innerTop:i>\n<en:Black Bra>",
         "params": [
             0,
@@ -10138,7 +10138,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "水着上",
+        "name": "Swimsuit Top",
         "note": "<innerTop:k>\n<en:Swimsuit(top half)>",
         "params": [
             0,
@@ -10273,7 +10273,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "しましまブラ(ピンク)",
+        "name": "Striped Bra (Pink)",
         "note": "<innerTop:ea>\n<en:Striped Pink Bra>",
         "params": [
             0,
@@ -10300,7 +10300,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "しましまブラ(緑)",
+        "name": "Striped Bra (Green)",
         "note": "<innerTop:eb>\n<en:Striped Green Bra>",
         "params": [
             0,
@@ -10462,7 +10462,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツなし",
+        "name": "No Panties",
         "note": "<innerBottom:a>\n<en:No Panties>",
         "params": [
             0,
@@ -10489,7 +10489,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "白ぱんつ",
+        "name": "White Panties",
         "note": "<innerBottom:b>\n<en:White Panties>",
         "params": [
             0,
@@ -10516,7 +10516,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "しましまぱんつ",
+        "name": "Striped Panties",
         "note": "<innerBottom:e>\n<en:Striped Panties>",
         "params": [
             0,
@@ -10543,7 +10543,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ふんわりぱんつ",
+        "name": "Fluffy Panties",
         "note": "<innerBottom:f>\n<en:Loose-fitting Panties>",
         "params": [
             0,
@@ -10570,7 +10570,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "青ぱんつ",
+        "name": "Blue Panties",
         "note": "<innerBottom:g>\n<en:Blue Panties>",
         "params": [
             0,
@@ -10624,7 +10624,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒ぱんつ",
+        "name": "Black Panties",
         "note": "<innerBottom:i>\n<en:Black Panties>",
         "params": [
             0,
@@ -10678,7 +10678,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "水着下",
+        "name": "Swimsuit Bottom",
         "note": "<innerBottom:k>\n",
         "params": [
             0,
@@ -10813,7 +10813,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "しましまぱんつ(ピンク)",
+        "name": "Striped Panties (Pink)",
         "note": "<innerBottom:ea>\n<en:Striped Pink Panties>",
         "params": [
             0,
@@ -10840,7 +10840,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "しましまぱんつ(緑)",
+        "name": "Striped Panties (Green)",
         "note": "<innerBottom:eb>\n<en:Striped Green Panties>",
         "params": [
             0,
@@ -11029,7 +11029,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(通常)",
+        "name": "Expression (Normal)",
         "note": "<face:1>\n<en:Expression (normal)>",
         "params": [
             0,
@@ -11056,7 +11056,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(笑)",
+        "name": "Expression (Smile)",
         "note": "<face:2>\n<en:Expression (laughing)>",
         "params": [
             0,
@@ -11083,7 +11083,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(明)",
+        "name": "Expression (Bright)",
         "note": "<face:3>\n<en:Expression (happy)>",
         "params": [
             0,
@@ -11110,7 +11110,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(困)",
+        "name": "Expression (Troubled)",
         "note": "<face:4>\n<en:Expression (troubled)>",
         "params": [
             0,
@@ -11137,7 +11137,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(呆)",
+        "name": "Expression (Stunned)",
         "note": "<face:5>\n<en:Expression (shocked)>",
         "params": [
             0,
@@ -11164,7 +11164,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(考)",
+        "name": "Expression (Thinking)",
         "note": "<face:6>\n<en:Expression (thinking)>",
         "params": [
             0,
@@ -11191,7 +11191,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(驚)",
+        "name": "Expression (Surprised)",
         "note": "<face:7>\n<en:Expression (surprised)>",
         "params": [
             0,
@@ -11218,7 +11218,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(怒)",
+        "name": "Expression (Angry)",
         "note": "<face:8>\n<en:Expression (mad)>",
         "params": [
             0,
@@ -11245,7 +11245,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(悲)",
+        "name": "Expression (Sad)",
         "note": "<face:9>\n<en:Expression (sad)>",
         "params": [
             0,
@@ -11272,7 +11272,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(恥)",
+        "name": "Expression (Embarrassed)",
         "note": "<face:10>\n<en:Expression (embarrassed)>",
         "params": [
             0,
@@ -11299,7 +11299,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(叫)",
+        "name": "Expression (Shout)",
         "note": "<face:11>\n<en:Expression (yelling)>",
         "params": [
             0,
@@ -11326,7 +11326,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(閉)",
+        "name": "Expression (Closed)",
         "note": "<face:12>\n<en:Expression (close eyes)>",
         "params": [
             0,
@@ -11353,7 +11353,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(苦)",
+        "name": "Expression (Pain)",
         "note": "<face:13>\n<en:Expression (bitter smile)>",
         "params": [
             0,
@@ -11380,7 +11380,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(驚2)",
+        "name": "Expression (Surprised 2)",
         "note": "<face:14>\n<en:Expression (surprised2)>",
         "params": [
             0,
@@ -11407,7 +11407,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(哀)",
+        "name": "Expression (Sorrowful)",
         "note": "<face:15>\n<en:Expression (sad2)>",
         "params": [
             0,
@@ -11434,7 +11434,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(困2)",
+        "name": "Expression (Troubled 2)",
         "note": "<face:16>\n<en:Expression (troubled2)>",
         "params": [
             0,
@@ -11461,7 +11461,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(驚3)",
+        "name": "Expression (Surprised 3)",
         "note": "<face:17>\n<en:Expression (surprised3)>",
         "params": [
             0,
@@ -11488,7 +11488,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(驚4)",
+        "name": "Expression (Surprised 4)",
         "note": "<face:18>\n<en:Expression (surprised4)>",
         "params": [
             0,
@@ -11515,7 +11515,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(苦2)",
+        "name": "Expression (Pain 2)",
         "note": "<face:19>\n<en:Expression (bitter smile2)>",
         "params": [
             0,
@@ -11542,7 +11542,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(考2)",
+        "name": "Expression (Thinking 2)",
         "note": "<face:20>\n<en:Expression (thinking2)>",
         "params": [
             0,
@@ -11569,7 +11569,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(閉2)",
+        "name": "Expression (Closed 2)",
         "note": "<face:21>\n<en:Expression (close eyes2)>",
         "params": [
             0,
@@ -11596,7 +11596,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(誘)",
+        "name": "Expression (Seductive)",
         "note": "<face:22>\n<en:Expression (seductive)>",
         "params": [
             0,
@@ -11623,7 +11623,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(苦3)",
+        "name": "Expression (Pain 3)",
         "note": "<face:23>\n<en:Expression (bitter smile3)>",
         "params": [
             0,
@@ -11650,7 +11650,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(困3)",
+        "name": "Expression (Troubled 3)",
         "note": "<face:24>\n<en:Expression (troubled3)>",
         "params": [
             0,
@@ -11677,7 +11677,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(失笑)",
+        "name": "Expression (Suppressed Smile)",
         "note": "<face:25>\n<en:Expression (giggling)>",
         "params": [
             0,
@@ -11704,7 +11704,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(考3)",
+        "name": "Expression (Thinking 3)",
         "note": "<face:26>\n<en:Expression (thinking3)>",
         "params": [
             0,
@@ -11731,7 +11731,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(叫2)",
+        "name": "Expression (Shout 2)",
         "note": "<face:27>\n<en:Expression (yelling2)>",
         "params": [
             0,
@@ -11758,7 +11758,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(誘2)",
+        "name": "Expression (Seductive 2)",
         "note": "<face:29>\n<en:Expression (seductive 2)>",
         "params": [
             0,
@@ -11785,7 +11785,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(誘3)",
+        "name": "Expression (Temptation 3)",
         "note": "<face:30>\n<en:Expression (seductive 3)>",
         "params": [
             0,
@@ -12352,7 +12352,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ普通",
+        "name": "Normal Cheeks",
         "note": "<hoppe:0>\n<en:normal>",
         "params": [
             0,
@@ -12379,7 +12379,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ1",
+        "name": "Cheeks 1",
         "note": "<hoppe:1>\n<en:blush1>",
         "params": [
             0,
@@ -12406,7 +12406,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ2",
+        "name": "Cheeks 2",
         "note": "<hoppe:2>\n<en:blush2>",
         "params": [
             0,
@@ -13449,7 +13449,7 @@
     {
         "id": 501,
         "atypeId": 0,
-        "description": "ゴブリンの巣穴まで転送することができる",
+        "description": "You can teleport to the goblin's den",
         "etypeId": 2,
         "traits": [
             {
@@ -13459,7 +13459,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "出力アップ LV1",
+        "name": "Power Output Up LV1",
         "note": "",
         "params": [
             0,
@@ -13476,7 +13476,7 @@
     {
         "id": 502,
         "atypeId": 0,
-        "description": "魔法の剣と魔法の盾を持ち込むことができる",
+        "description": "You can bring a magic sword and a magic shield",
         "etypeId": 2,
         "traits": [
             {
@@ -13486,7 +13486,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "出力アップ LV2",
+        "name": "Power Output Up LV2",
         "note": "<before: 501>\n<weapon: 51>\n<armor: 51>",
         "params": [
             0,
@@ -13503,7 +13503,7 @@
     {
         "id": 503,
         "atypeId": 0,
-        "description": "アイテムを持ち込めるようになる",
+        "description": "You can now bring items with you",
         "etypeId": 2,
         "traits": [
             {
@@ -13513,7 +13513,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "出力アップ LV3",
+        "name": "Power Output Up LV3",
         "note": "<before: 502>",
         "params": [
             0,
@@ -13675,7 +13675,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "リセット",
+        "name": "Reset",
         "note": "<before: 501>\n<reset>",
         "params": [
             0,
@@ -13719,7 +13719,7 @@
     {
         "id": 511,
         "atypeId": 0,
-        "description": "魔法の剣を持ち込む事ができる。",
+        "description": "You can bring a magic sword.",
         "etypeId": 2,
         "traits": [
             {
@@ -13729,7 +13729,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "武器強化 LV1",
+        "name": "Weapon Enhancement LV1",
         "note": "<weapon: 102>\n<before: 502>",
         "params": [
             0,
@@ -13746,7 +13746,7 @@
     {
         "id": 512,
         "atypeId": 0,
-        "description": "魔法の剣を持ち込む事ができる。",
+        "description": "You can bring a magic sword.",
         "etypeId": 2,
         "traits": [
             {
@@ -13756,7 +13756,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "武器強化 LV2",
+        "name": "Weapon Enhancement LV2",
         "note": "<weapon: 103>\n<before: 512>",
         "params": [
             0,
@@ -13989,7 +13989,7 @@
     {
         "id": 521,
         "atypeId": 0,
-        "description": "魔法の盾を持ち込む事ができる。",
+        "description": "You can bring a magic shield.",
         "etypeId": 2,
         "traits": [
             {
@@ -13999,7 +13999,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "防具強化 LV1",
+        "name": "Armor Enhancement LV1",
         "note": "<armor: 102>\n<before: 502>",
         "params": [
             0,
@@ -14016,7 +14016,7 @@
     {
         "id": 522,
         "atypeId": 0,
-        "description": "魔法の盾を持ち込む事ができる。",
+        "description": "You can bring a magic shield.",
         "etypeId": 2,
         "traits": [
             {
@@ -14026,7 +14026,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "防具強化 LV2",
+        "name": "Armor Enhancement LV2",
         "note": "<armor: 103>\n<before: 521>",
         "params": [
             0,
@@ -24222,7 +24222,7 @@
     {
         "id": 900,
         "atypeId": 11,
-        "description": "無条件で人に尽くし、奉仕したいと思う",
+        "description": "Unconditionally devoted to serving others, wanting to help",
         "etypeId": 2,
         "traits": [
             {
@@ -24232,7 +24232,7 @@
             }
         ],
         "iconIndex": 541,
-        "name": "奉仕の精神",
+        "name": "Spirit of Service",
         "note": "<hint:はじめから所持している>\n<initial>\n<en:Spirit of Giving>\n<enDesc:Unconditionally devoted to others\\n and willing to serve anyone.>",
         "params": [
             0,
@@ -24249,7 +24249,7 @@
     {
         "id": 901,
         "atypeId": 11,
-        "description": "人はみな善人だと思っており、人を信じやすい",
+        "description": "Believing that all people are good, easily trusting others",
         "etypeId": 2,
         "traits": [
             {
@@ -24259,7 +24259,7 @@
             }
         ],
         "iconIndex": 567,
-        "name": "信じる心",
+        "name": "Believing Heart",
         "note": "<hint:はじめから所持している>\n<initial>\n<en:Faith>\n<enDesc:Thinks all people are honest and\\n trusts others too easily.>",
         "params": [
             0,
@@ -24330,7 +24330,7 @@
     {
         "id": 904,
         "atypeId": 10,
-        "description": "精液を飲むことができる",
+        "description": "Can drink semen",
         "etypeId": 2,
         "traits": [
             {
@@ -24340,7 +24340,7 @@
             }
         ],
         "iconIndex": 2028,
-        "name": "精飲",
+        "name": "Semen Drinking",
         "note": "<hintId:900>\n<hint:口内射精される>\n<en:Cum drinking>\n<enDesc:Can drink cum.>\n<enHint:Receive an oral creampie.>",
         "params": [
             0,
@@ -24357,7 +24357,7 @@
     {
         "id": 905,
         "atypeId": 10,
-        "description": "他人のおしっこを飲むことができる",
+        "description": "Can drink someone else's urine",
         "etypeId": 2,
         "traits": [
             {
@@ -24367,7 +24367,7 @@
             }
         ],
         "iconIndex": 1998,
-        "name": "飲尿",
+        "name": "Urine Drinking",
         "note": "<hintId:900>\n<hint:男のおしっこにふれ続ける>\n<en:Pee drinking>\n<enDesc:Can drink other people's pee.>\n<enHint:Continue touching a man's pee.>\n",
         "params": [
             0,
@@ -24384,7 +24384,7 @@
     {
         "id": 906,
         "atypeId": 10,
-        "description": "喉の奥までちんぽを突っ込んでフェラができる",
+        "description": "Can perform fellatio by taking a cock deep into the throat",
         "etypeId": 2,
         "traits": [
             {
@@ -24394,7 +24394,7 @@
             }
         ],
         "iconIndex": 2028,
-        "name": "ディープフェラ",
+        "name": "Deep Throat",
         "note": "<hintId:900>\n<hint:フェラをする>\n<en:Deepthroat>\n<enDesc:Can take the entire penis into the mouth\\n until it reaches the back of the throat.>\n<enHint:Give a blowjob.>",
         "params": [
             0,
@@ -24411,7 +24411,7 @@
     {
         "id": 907,
         "atypeId": 10,
-        "description": "Hな衣装を着ると村の冒険者を誘ってエッチができる",
+        "description": "Wearing erotic outfits can seduce adventurers in the village for sex",
         "etypeId": 2,
         "traits": [
             {
@@ -24421,7 +24421,7 @@
             }
         ],
         "iconIndex": 2085,
-        "name": "売春",
+        "name": "Prostitution",
         "note": "<hintId:900>\n<hint:酒場のイベントをすすめる>\n<en:Prostitution>\n<enDesc:When wearing H clothing, can invite \\nadventures from the village to have sex.>\n<enHint:Recommend an event at the tavern.>",
         "params": [
             0,
@@ -24600,7 +24600,7 @@
     {
         "id": 914,
         "atypeId": 10,
-        "description": "SMプレイで快感を感じる",
+        "description": "Finds pleasure in SM play",
         "etypeId": 2,
         "traits": [
             {
@@ -24610,7 +24610,7 @@
             }
         ],
         "iconIndex": 1957,
-        "name": "マゾ",
+        "name": "Masochist",
         "note": "<hint:SM系のプレイを何度も行う>\n<en:Masochist>\n<enDesc:Can feel pleasure in SM play.>\n<enHint:Repeatedly perform SM play.>",
         "params": [
             0,
@@ -24627,7 +24627,7 @@
     {
         "id": 915,
         "atypeId": 10,
-        "description": "着替え画面で裸になることができる",
+        "description": "Can get naked on the change outfit screen",
         "etypeId": 2,
         "traits": [
             {
@@ -24637,7 +24637,7 @@
             }
         ],
         "iconIndex": 2090,
-        "name": "露出徘徊",
+        "name": "Exhibitionist Wandering",
         "note": "<hintId:900>\n<hint:裸で外出するプレイをする>\n<en:Public Nudity>\n<enDesc:Can remove all clothes \\non the Change Clothing screen.>\n<enHint:Go outside naked.>",
         "params": [
             0,
@@ -24654,7 +24654,7 @@
     {
         "id": 916,
         "atypeId": 10,
-        "description": "お尻の穴で奉仕することができる",
+        "description": "Can serve using the butt hole",
         "etypeId": 2,
         "traits": [
             {
@@ -24664,7 +24664,7 @@
             }
         ],
         "iconIndex": 2001,
-        "name": "アナルセックス",
+        "name": "Anal Sex",
         "note": "<hintId:900>\n<hint:アナルセックスをする>\n<en:Anal Sex>\n<enDesc:Can provide service with her asshole.>\n<enHint:Have anal sex.>",
         "params": [
             0,
@@ -24681,7 +24681,7 @@
     {
         "id": 917,
         "atypeId": 10,
-        "description": "男に母乳を飲ませることができる",
+        "description": "Can breastfeed men",
         "etypeId": 2,
         "traits": [
             {
@@ -24691,7 +24691,7 @@
             }
         ],
         "iconIndex": 1993,
-        "name": "母乳プレイ",
+        "name": "Lactation Play",
         "note": "<hintId:900>\n<hint:赤ん坊に母乳を与える>\n<en:Breastfeeding Play>\n<enDesc:Can breastfeed a man.>\n<enHint:Breastfeed a baby.>",
         "params": [
             0,
@@ -24789,7 +24789,7 @@
     {
         "id": 921,
         "atypeId": 11,
-        "description": "まだ男性器を膣内に挿入したことがない",
+        "description": "Has never had a penis inserted into her vagina",
         "etypeId": 2,
         "traits": [
             {
@@ -24799,7 +24799,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "処女",
+        "name": "Virgin",
         "note": "\n<order:902>\n<en:Virgin>\n<initial>\n<enDesc:Has not yet had a penis inserted into her vagina.>",
         "params": [
             0,
@@ -24816,7 +24816,7 @@
     {
         "id": 922,
         "atypeId": 11,
-        "description": "男性器を膣内に挿入したことがある",
+        "description": "Has had a penis inserted into her vagina",
         "etypeId": 2,
         "traits": [
             {
@@ -24826,7 +24826,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "非処女",
+        "name": "Non-Virgin",
         "note": "\n<order:902>\n<en:Deflowered>\n<initial>\n<enDesc:Has had a penis inserted into vagina.>",
         "params": [
             0,
@@ -24843,7 +24843,7 @@
     {
         "id": 923,
         "atypeId": 11,
-        "description": "まだ結婚をしていない",
+        "description": "Has not yet married",
         "etypeId": 2,
         "traits": [
             {
@@ -24853,7 +24853,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "独り身",
+        "name": "Single",
         "note": "\n<order:902>\n<en:Unmarried>\n<initial>\n<enDesc:Has not yet married.>",
         "params": [
             0,
@@ -24870,7 +24870,7 @@
     {
         "id": 924,
         "atypeId": 11,
-        "description": "村の男の妻である",
+        "description": "Is the wife of a man in the village",
         "etypeId": 2,
         "traits": [
             {
@@ -24880,7 +24880,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "人妻",
+        "name": "Married Woman",
         "note": "\n<order:902>\n<en:Married>\n<initial>\n<enDesc:Is the wife of a man.>",
         "params": [
             0,
@@ -25032,7 +25032,7 @@
     {
         "id": 930,
         "atypeId": 9,
-        "description": "手で奉仕することができる",
+        "description": "Can serve with hands",
         "etypeId": 2,
         "traits": [
             {
@@ -25042,7 +25042,7 @@
             }
         ],
         "iconIndex": 2007,
-        "name": "手コキ",
+        "name": "Handjob",
         "note": "<hint:はじめから所持している>\n<order:903>\n<en:Handjob>\n<enDesc:Can provide service with her hands.>",
         "params": [
             0,
@@ -25059,7 +25059,7 @@
     {
         "id": 931,
         "atypeId": 9,
-        "description": "絶頂に達し、イクことを知る",
+        "description": "Has reached climax and knows what it is to cum",
         "etypeId": 2,
         "traits": [
             {
@@ -25069,7 +25069,7 @@
             }
         ],
         "iconIndex": 404,
-        "name": "オーガズム",
+        "name": "Orgasm",
         "note": "<hint:絶頂に達する>\n<enHint:Reach climax.>\n<en:Orgasm>\n<enDesc:Reaching climax and knowing how to cum.>",
         "params": [
             0,
@@ -25086,7 +25086,7 @@
     {
         "id": 932,
         "atypeId": 9,
-        "description": "口で奉仕したことがある",
+        "description": "Has given oral service before",
         "etypeId": 2,
         "traits": [
             {
@@ -25096,7 +25096,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "フェラチオ",
+        "name": "Fellatio",
         "note": "<hint:口で奉仕したことがある>\n<enHint:Can provide service with her mouth.>\n<en:Blowjob>\n<enDesc:Can provide service with her mouth.>",
         "params": [
             0,
@@ -25113,7 +25113,7 @@
     {
         "id": 933,
         "atypeId": 9,
-        "description": "複数人と同時にHすることができる",
+        "description": "Can have sex with multiple people at the same time",
         "etypeId": 2,
         "traits": [
             {
@@ -25123,7 +25123,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "複数人プレイ",
+        "name": "Group Play",
         "note": "<hint:複数人と同時にHした>\n<en:Orgy>\n<enDesc:Can have sex with multiple people\\n at the same time.>\n<enHint:Have sex with multiple people at the same time.>",
         "params": [
             0,
