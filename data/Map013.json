@@ -2599,7 +2599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想を全開放しますか？"
+                                "Would you like to unlock all the recollections?"
                             ]
                         },
                         {
@@ -2607,8 +2607,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3131,7 +3131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "99999\\G 手に入れた！"
+                                "Gained 99999\\G!"
                             ]
                         },
                         {
