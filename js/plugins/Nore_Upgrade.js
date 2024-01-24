@@ -291,7 +291,7 @@ var Nore;
       SoundManager.playOk();
       this._upgradeWindow.deactivate();
       var item = this._upgradeWindow.selectedItem();
-      var text = item.name + "を選択しますか？";
+      var text = "Learn " + item.name + "?";
       this._confirmWindow.setText(text);
       this._confirmWindow.setInfo(true);
       this._confirmWindow.show();
