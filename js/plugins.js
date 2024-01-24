@@ -164,7 +164,7 @@ var $plugins = [
       marginLeft: "70",
       marginRight: "30",
       nameLeft: "20",
-      fontSize: "24",
+      fontSize: "20",
       scrollSpeed: "5",
       windowHeight: "2000",
       maxLogCount: "50",
