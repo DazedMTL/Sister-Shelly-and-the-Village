@@ -33,201 +33,201 @@ function vocabJp() {
   TextManager.hit = TextManager.param(8);
   TextManager.eva = TextManager.param(9);
   TextManager.mmp = TextManager.param(1);
-  TextManager.fatigue = "疲労度";
+  TextManager.fatigue = "Fatigue";
   TextManager._exp = TextManager.exp;
   // eroStatus
-  TextManager.peopleUnit = "%1 人";
-  TextManager.countUnit = "%1 回";
-  TextManager.normal = "通常";
-  TextManager.pregnant = "妊娠中";
-  TextManager.father = "種親";
+  TextManager.peopleUnit = "%1 x";
+  TextManager.countUnit = "%1 x";
+  TextManager.normal = "Normal";
+  TextManager.pregnant = "Pregnant";
+  TextManager.father = "Seed Donor";
   // item
-  TextManager.getItem = "%1 を手に入れた！";
+  TextManager.getItem = "Obtained %1!";
   // menu
-  TextManager.invokeSkill = "シェリーの特性";
-  TextManager.dungeon = "ダンジョン";
-  TextManager.afternoon = "昼";
-  TextManager.night = "夜";
-  TextManager.date = "%1日目";
+  TextManager.invokeSkill = "Shelly's Traits";
+  TextManager.dungeon = "Dungeon";
+  TextManager.afternoon = "Afternoon";
+  TextManager.night = "Night";
+  TextManager.date = "Day %1";
   TextManager.language = "Language";
-  TextManager.nakadashi = "中出し回数";
-  TextManager.keikenPerson = "経験人数";
-  TextManager.notEnoughPan = "パンが足りません";
-  TextManager.notEnoughWine = "ふどう酒が足りません";
-  TextManager.condition = "獲得条件: ";
-  TextManager.gaugeCondition = "\\C[16]ゲージ増加条件: \\C[0]";
-  TextManager.gaugeUp = "性癖習得ゲージ上昇‼︎";
-  TextManager.anal = "アナル";
-  TextManager.bukkake = "ぶっかけ";
-  TextManager.lastStatus = "（前日比）";
-  TextManager.floor = "%1 層";
-  TextManager.selectFloor = "攻略する階層を選択してください";
-  TextManager.return = "帰還する";
-  TextManager.dungeonInfo = "冒険情報";
-  TextManager.tryCount = "挑戦回数";
-  TextManager.countUnit2 = "回";
-  TextManager.gold = "お金";
-  TextManager.kigae = "着替え";
-  TextManager.history = "カレンダー";
-  TextManager.confirmFloor = "この階層に行きますか？";
-  TextManager.confirmReturn = "帰還しますか？";
+  TextManager.nakadashi = "Creampie Count";
+  TextManager.keikenPerson = "Partners";
+  TextManager.notEnoughPan = "Not enough bread";
+  TextManager.notEnoughWine = "Not enough grape wine";
+  TextManager.condition = "Acquisition Condition: ";
+  TextManager.gaugeCondition = "\\C[16]Gauge Increase Condition: \\C[0]";
+  TextManager.gaugeUp = "Fetish Acquisition Gauge Increased‼︎";
+  TextManager.anal = "Anal";
+  TextManager.bukkake = "Bukkake";
+  TextManager.lastStatus = "(Compared to the previous day)";
+  TextManager.floor = "Floor %1";
+  TextManager.selectFloor = "Please select the floor to challenge";
+  TextManager.return = "Return";
+  TextManager.dungeonInfo = "Adventure Information";
+  TextManager.tryCount = "Number of Attempts";
+  TextManager.countUnit2 = "x";
+  TextManager.gold = "Gold";
+  TextManager.kigae = "Change Clothes";
+  TextManager.history = "Calendar";
+  TextManager.confirmFloor = "Proceed to this floor?";
+  TextManager.confirmReturn = "Return?";
   // shop
-  TextManager.notEnoughMoney = "お金が足りません";
-  TextManager.shopConfirm = "%1G を払って武具を強化しますか？";
-  TextManager.play = "可能なプレイ";
-  TextManager.kigaeError = "露出することはできません";
+  TextManager.notEnoughMoney = "Not enough money";
+  TextManager.shopConfirm = "Pay %1G to upgrade equipment?";
+  TextManager.play = "Possible Plays";
+  TextManager.kigaeError = "Exposure is not allowed";
   // Intimacy
-  TextManager.relationshipWithVillagers = "村の人たちとの関係性";
-  TextManager.seikoui = "性行為回数";
-  TextManager.honban = "本番回数";
-  TextManager.ninshin = "妊娠";
-  TextManager.syusan2 = "出産";
-  TextManager.relationship = "シェリーとの関係";
-  TextManager.husband = "私の夫";
-  TextManager.acquaintance = "新規知り合い追加";
-  TextManager.plusIntimacy = "親密度上昇";
+  TextManager.relationshipWithVillagers = "Relationship with the villagers";
+  TextManager.seikoui = "Sexual Acts";
+  TextManager.honban = "Full Sex";
+  TextManager.ninshin = "Pregnancy";
+  TextManager.syusan2 = "Childbirth";
+  TextManager.relationship = "Relationship with Shelly";
+  TextManager.husband = "My husband";
+  TextManager.acquaintance = "New Acquaintance Add";
+  TextManager.plusIntimacy = "Intimacy Increased";
   // Shop
-  TextManager.notEquip = "未装備";
+  TextManager.notEquip = "Unequipped";
   // Kigae
-  TextManager.costume = "コスチューム";
-  TextManager.face = "表情";
-  TextManager.decide = "確定";
+  TextManager.costume = "Costume";
+  TextManager.face = "Expression";
+  TextManager.decide = "Confirm";
   // History
-  TextManager.day1 = "ダンジョンに初挑戦";
-  TextManager.day3 = "ファフニールに敗北";
-  TextManager.shojoSoushitsu = "処女喪失";
-  TextManager.loseBoss = "ファフニールに敗北";
-  TextManager.firstReo = "レオ様に手コキ";
-  TextManager.reoFela = "レオ様にフェラ";
-  TextManager.firstReoH = "レオ様と初エッチ";
-  TextManager.reoH = "レオ様とエッチ";
-  TextManager.firstBukiya = "武器屋のおじさんと初H";
-  TextManager.firstBukiya2 = "武器屋のおじさんとH";
-  TextManager.firstPartTimeJob = "初バイト";
-  TextManager.partTimeJobTekoki = "バイトで手コキ";
-  TextManager.partTimeJobFela = "バイトでフェラ";
-  TextManager.partTimeJobFela2 = "バイトでフェラ(ごっくん)";
-  TextManager.partTimeJobDeepFela = "バイトでディープフェラ";
-  TextManager.partTimeJobDeepFela2 = "バイトでディープフェラ(ごっくん)";
-  TextManager.partTimeJobAnal = "バイトでアナル舐め";
-  TextManager.partTimeJobSex = "バイトで本番H";
-  TextManager.partTimeOnaho = "バイトでオナホ";
-  TextManager.partTimeBoteOnaho = "バイトでボテ腹オナホ";
-  TextManager.partTimeJobToilet = "バイトで便器";
-  TextManager.firstShotaFela = "ノアくんに初フェラ";
-  TextManager.shotaFela = "ノアくんにフェラ";
-  TextManager.firstShota = "ノアくんと初H";
-  TextManager.shota2 = "ノアくんと中出しH";
-  TextManager.shota3 = "ノアくんと騎乗位H";
-  TextManager.firstOshikko = "初めておしっこを飲む";
-  TextManager.victoryHistory = "%1層のボスを初撃破";
-  TextManager.ninishinHistory = "%1の子を妊娠";
-  TextManager.ninishinHypnosis = "レオに催眠をかけた";
-  TextManager.ninishinReoNoKo = "レオの子供ということにした";
-  TextManager.syusan = "%1の子を出産";
-  TextManager.firstHaikai = "裸徘徊の性癖獲得";
-  TextManager.haikai2 = "裸徘徊";
-  TextManager.firstGokkun = "初めて精液を飲む";
-  TextManager.firstVagrantFela = "浮浪者さんの排尿手伝い";
-  TextManager.vagrantFela2 = "浮浪者さんのおしっこ飲み";
-  TextManager.vagrantFela3 = "浮浪者さんにディープフェラ";
-  TextManager.firstVagrant = "浮浪者のおじいさんと初H";
-  TextManager.vagrantStay = "浮浪者のおじいさんとお泊り";
-  TextManager.vagrantAnal = "浮浪者のおじいさんとアナルH";
-  TextManager.vagrantH = "浮浪者のおじいさんとH";
-  TextManager.bukiyaHistory = "性奴隷契約をした";
-  TextManager.mokubaHistory = "三角木馬を初体験";
-  TextManager.mokubaHistory2 = "三角木馬で調教";
-  TextManager.rinkanHistory = "顔もわからない人たちに輪姦される";
-  TextManager.firstYakusou = "薬草売りのお兄さんと初H";
-  TextManager.firstRankou = "街で初乱交";
-  TextManager.firstKuro = "黒ギャル化";
-  TextManager.kuro2 = "黒ギャル化して乱交";
-  TextManager.kuro2_bote = "黒ギャルボテ腹で乱交";
-  TextManager.kimoOtoko = "キモいおじさんに出させてあげた";
-  TextManager.kimoOtoko2 = "キモいおじさんとセックス";
-  TextManager.kimoOtoko2_bote = "キモいおじさんとボテ腹H";
-  TextManager.rankou2 = "街で乱交プレイ";
-  TextManager.rankou3 = "乱交プレイ";
-  TextManager.rankou2_bote = "ボテ腹で乱交プレイ";
-  TextManager.kuro3 = "黒ギャル化しておねだり";
-  TextManager.kuro3_bote = "黒ギャルボテ腹でおねだり";
-  TextManager.yadoya1 = "宿屋でレオ様の隣でH";
-  TextManager.yadoya2 = "宿屋でレオ様の隣で騎乗位";
-  TextManager.yadoya3 = "宿屋でレオ様の隣で種付け";
-  TextManager.yadoya4 = "宿屋でレオ様の隣で睡眠姦";
-  TextManager.firstPanya = "パン屋のおじさんに手コキ";
-  TextManager.pan2 = "パン屋のおじさんと初H";
-  TextManager.pan3 = "パン屋でバックでH";
-  TextManager.pan4 = "パン屋のおじさんに騎乗位";
-  TextManager.pan5 = "パン屋のおじさんとH";
-  TextManager.apronHistory = "パン屋のおじさんとH";
-  TextManager.apronHistory2 = "宿屋のおじさんとH";
-  TextManager.marriage = "%1と結婚";
-  TextManager.baisyun = "%1と売春";
-  TextManager.reoMesuHistory = "レオくんメス堕ち";
+  TextManager.day1 = "First Dungeon Challenge";
+  TextManager.day3 = "Defeated by Fafnir";
+  TextManager.shojoSoushitsu = "Virginity Lost";
+  TextManager.loseBoss = "Defeated by Fafnir";
+  TextManager.firstReo = "First Handjob to Lord Leo";
+  TextManager.reoFela = "Fellatio to Lord Leo";
+  TextManager.firstReoH = "First Sex with Lord Leo";
+  TextManager.reoH = "Sex with Lord Leo";
+  TextManager.firstBukiya = "First H with the Weapon Shop Uncle";
+  TextManager.firstBukiya2 = "H with the Weapon Shop Uncle";
+  TextManager.firstPartTimeJob = "First Part-time Job";
+  TextManager.partTimeJobTekoki = "Handjob at Part-time Job";
+  TextManager.partTimeJobFela = "Fellatio at Part-time Job";
+  TextManager.partTimeJobFela2 = "Fellatio at Part-time Job (Swallow)";
+  TextManager.partTimeJobDeepFela = "Deep Throat at Part-time Job";
+  TextManager.partTimeJobDeepFela2 = "Deep Throat at Part-time Job (Swallow)";
+  TextManager.partTimeJobAnal = "Anal Licking at Part-time Job";
+  TextManager.partTimeJobSex = "Full Sex at Part-time Job";
+  TextManager.partTimeOnaho = "Onahole at Part-time Job";
+  TextManager.partTimeBoteOnaho = "Pregnant Onahole at Part-time Job";
+  TextManager.partTimeJobToilet = "Toilet at Part-time Job";
+  TextManager.firstShotaFela = "First Fellatio to Noah-kun";
+  TextManager.shotaFela = "Fellatio to Noah-kun";
+  TextManager.firstShota = "First Sex with Noah-kun";
+  TextManager.shota2 = "Creampie Sex with Noah-kun";
+  TextManager.shota3 = "Cowgirl Sex with Noah-kun";
+  TextManager.firstOshikko = "First time drinking pee";
+  TextManager.victoryHistory = "First Boss Defeat on Floor %1";
+  TextManager.ninishinHistory = "Pregnant with %1's Child";
+  TextManager.ninishinHypnosis = "Hypnotized by Leo";
+  TextManager.ninishinReoNoKo = "Decided to have the child of Leo";
+  TextManager.syusan = "Gave birth to %1's child";
+  TextManager.firstHaikai = "Acquired the Vagrant Exhibitionist Fetish";
+  TextManager.haikai2 = "Vagrant Exhibitionism";
+  TextManager.firstGokkun = "First time drinking semen";
+  TextManager.firstVagrantFela = "Helped the homeless man urinate";
+  TextManager.vagrantFela2 = "Drank the homeless man's pee";
+  TextManager.vagrantFela3 = "Deep Throat for the homeless man";
+  TextManager.firstVagrant = "First H with the homeless old man";
+  TextManager.vagrantStay = "Overnight Stay with the homeless old man";
+  TextManager.vagrantAnal = "Anal H with the homeless old man";
+  TextManager.vagrantH = "H with the homeless old man";
+  TextManager.bukiyaHistory = "Signed a Sex Slave Contract";
+  TextManager.mokubaHistory = "First Wooden Horse Experience";
+  TextManager.mokubaHistory2 = "Training on the Wooden Horse";
+  TextManager.rinkanHistory = "Gangbanged by People I Don't Know";
+  TextManager.firstYakusou = "First H with the Herb Seller Brother";
+  TextManager.firstRankou = "First Orgy in Town";
+  TextManager.firstKuro = "Turned into a Black Gyaru";
+  TextManager.kuro2 = "Orgy as a Black Gyaru";
+  TextManager.kuro2_bote = "Pregnant Orgy as a Black Gyaru";
+  TextManager.kimoOtoko = "Let the Creepy Old Man Cum";
+  TextManager.kimoOtoko2 = "Sex with the Creepy Old Man";
+  TextManager.kimoOtoko2_bote = "Pregnant Sex with the Creepy Old Man";
+  TextManager.rankou2 = "Orgy Play in Town";
+  TextManager.rankou3 = "Orgy Play";
+  TextManager.rankou2_bote = "Pregnant Orgy Play";
+  TextManager.kuro3 = "Begging as a Black Gyaru";
+  TextManager.kuro3_bote = "Begging as a Pregnant Black Gyaru";
+  TextManager.yadoya1 = "H next to Lord Leo at the Inn";
+  TextManager.yadoya2 = "Cowgirl next to Lord Leo at the Inn";
+  TextManager.yadoya3 = "Breeding next to Lord Leo at the Inn";
+  TextManager.yadoya4 = "Sleep Assault next to Lord Leo at the Inn";
+  TextManager.firstPanya = "Handjob for the Bakery Uncle";
+  TextManager.pan2 = "First H with the Bakery Uncle";
+  TextManager.pan3 = "Back Sex at the Bakery";
+  TextManager.pan4 = "Cowgirl with the Bakery Uncle";
+  TextManager.pan5 = "H with the Bakery Uncle";
+  TextManager.apronHistory = "H with the Bakery Uncle";
+  TextManager.apronHistory2 = "H with the Inn Uncle";
+  TextManager.marriage = "Married to %1";
+  TextManager.baisyun = "Prostitution with %1";
+  TextManager.reoMesuHistory = "Lord Leo's Feminization";
   // Treasure
-  TextManager.treasureConfirm = "装備を更新しますか？";
+  TextManager.treasureConfirm = "Update equipment?";
   TextManager.treasureLowerGrade = [
-    "下のランクのため、弱くなります。",
-    "本当によろしいですか？",
+    "Because it's a lower rank, it will become weaker.",
+    "Are you sure you want to do this?",
   ];
-  TextManager.treasureSameGrade = "同じランクのため、強化値が引き継がれます";
+  TextManager.treasureSameGrade = "Since it's the same rank, the enhancement value will carry over";
   TextManager.treasureUpperGrade =
-    "上のランクのため、強化値の半分が引き継がれます";
+    "Since it's a higher rank, half the enhancement value will carry over";
   TextManager.treasureSell = [
-    "古い装備は自動で売却されます。",
-    "よろしいですか？",
+    "Old equipment will be sold automatically.",
+    "Is this okay?",
   ];
-  TextManager.treasureSell2 = "古い装備を%1Ｇで売却しました！";
-  TextManager.treasureSell3 = "獲得した装備を%1Ｇで売却しました！";
+  TextManager.treasureSell2 = "Sold the old equipment for %1G!";
+  TextManager.treasureSell3 = "Sold the acquired equipment for %1G!";
   getNakadashiTarget = function (type) {
     switch (type) {
       case "keikenVillager":
         return "";
       case "keikenMachi":
-        return "街の人";
+        return "Town person";
       case "keikenSakaba":
-        return "酒場の客";
+        return "Bar customer";
       default:
-        return "未定義";
+        return "Undefined";
     }
   };
   CHITSU_TIGHTENING = {
-    1: "締まり抜群、最高の\n極上ロリまんこ",
-    2: "まだまだキツキツな\nロリまんこ",
-    3: "平均的な締まり具合\n少しこなれてきた感",
-    4: "ユルマンといわれる領域に\n達した",
-    5: "自他ともに認めるガバガバまんこ\nレオがかわいそう",
+    1: "Excellent tightness. \nPremium loli pussy",
+    2: "Still very tight\nloli pussy",
+    3: "Average tightening\nslightly seasoned",
+    4: "Reached the realm of being called\nloose pussy",
+    5: "Recognized by oneself and others as a gaping pussy\nPoor Leo",
   };
   ANAL_TIGHTENING = {
-    1: "キツキツアナル。\nほぼ経験なし",
-    2: "挿れるのにまだ苦労する、\n締まり良きアナル",
-    3: "少しこなれてきた尻穴。\n脱初心者アナル",
-    4: "ゆるゆるになったアナル。\n街に数人レベル",
-    5: "ガバガバなアナル。\n国に数人いるかレベル",
+    1: "Tight anal.\nAlmost no experience",
+    2: "Tight anal that's still hard to penetrate,\ngood tightening",
+    3: "Slightly seasoned butthole.\nAmateur anal no more",
+    4: "Loose anal.\nA few in town level",
+    5: "Gaping anal.\nOne of the few in the country level",
   };
   ACTOR_RERLATION_MAP = {
-    "4_1": { desc: "恋人" },
-    "11_1": { desc: "いつもやさしいおじさん" },
-    "11_20": { desc: "私の初めての相手" },
-    "12_1": { desc: "パンを焼いているおじさん" },
-    "12_30": { desc: "私のことを想ってくれるおじさん" },
-    "13_1": { desc: "武器を作成してくれるおじさん" },
-    "13_30": { desc: "Ｈすると割引してくれるおじさん" },
-    "13_40": { desc: "私のご主人さま" },
-    "14_1": { desc: "酒場を経営しているおじさん" },
-    "15_1": { desc: "足を悪くしたおじいさん" },
-    "15_11": { desc: "排尿がうまくいかないおじいさん" },
-    "15_31": { desc: "おしっこを飲んであげているおじいさん" },
-    "15_41": { desc: "私を便器扱いするおじいさん" },
-    "16_1": { desc: "薬草を売りにきているお兄さん" },
-    "16_50": { desc: "街に連れて行ってくれるお兄さん" },
-    "16_70": { desc: "街で一緒にエッチな遊びをするお兄さん" },
-    "18_1": { desc: "近くで遊んでいる子ども" },
-    "18_30": { desc: "私が筆おろししてあげた子" },
-    "-1_0": { desc: "私を妊娠させた人" },
-    "-2_0": { desc: "私の結婚相手" },
+    "4_1": { desc: "Lover" },
+    "11_1": { desc: "The always kind uncle" },
+    "11_20": { desc: "My first time partner" },
+    "12_1": { desc: "The uncle who bakes bread" },
+    "12_30": { desc: "The uncle who cares about me" },
+    "13_1": { desc: "The uncle who makes weapons" },
+    "13_30": { desc: "The uncle who gives a discount after H" },
+    "13_40": { desc: "My master" },
+    "14_1": { desc: "The uncle who runs the bar" },
+    "15_1": { desc: "The old man with a bad leg" },
+    "15_11": { desc: "The old man who has trouble peeing" },
+    "15_31": { desc: "The old man I drink pee for" },
+    "15_41": { desc: "The old man who treats me like a toilet" },
+    "16_1": { desc: "The brother who sells herbs" },
+    "16_50": { desc: "The brother who takes me to town" },
+    "16_70": { desc: "The brother I play naughty games with in town" },
+    "18_1": { desc: "The child playing nearby" },
+    "18_30": { desc: "The kid I deflowered" },
+    "-1_0": { desc: "The person who impregnated me" },
+    "-2_0": { desc: "My marriage partner" },
   };
   ACTOR_RERLATION_MAP2 = {};
   for (var i in ACTOR_RERLATION_MAP) {
@@ -241,42 +241,42 @@ function vocabJp() {
   getEroParamTitle = function (label) {
     switch (label) {
       case "nakadashi":
-        return "中出し";
+        return "Creampie";
       case "anal":
-        return "アナルSEX";
+        return "Anal SEX";
       case "baisyun":
-        return "売春";
+        return "Prostitution";
       case "bukkake":
-        return "ぶっかけ";
+        return "Bukkake";
       case "seiekiNomu":
-        return "精液ごっくん";
+        return "Semen Swallow";
       case "oshikkoNomu":
-        return "おしっこごっくん";
+        return "Pee Swallow";
       case "syusan":
-        return "出産";
+        return "Childbirth";
       case "fela":
-        return "フェラ";
+        return "Fellatio";
       case "acme":
-        return "絶頂";
+        return "Climax";
     }
     return "";
   };
   getPlaceName = function (id) {
     switch (id) {
       case Destination.Church:
-        return "教会";
+        return "Church";
       case Destination.Inn:
-        return "宿屋";
+        return "Inn";
       case Destination.Bakery:
-        return "パン屋";
+        return "Bakery";
       case Destination.Bar:
-        return "酒場";
+        return "Bar";
       case Destination.WeaponShop:
-        return "武器屋";
+        return "Weapon Shop";
       case Destination.Tent:
-        return "浮浪者のテント";
+        return "Homeless Person's Tent";
       case Destination.Herborist:
-        return "薬草売りの前";
+        return "In front of the Herb Seller";
     }
   };
 }
