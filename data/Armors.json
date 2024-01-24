@@ -24233,7 +24233,7 @@
         ],
         "iconIndex": 541,
         "name": "Spirit of Service",
-        "note": "<hint:はじめから所持している>\n<initial>\n<en:Spirit of Giving>\n<enDesc:Unconditionally devoted to others\\n and willing to serve anyone.>",
+        "note": "<hint:Possessed from the Beginning>\n<initial>\n<en:Spirit of Giving>\n<enDesc:Unconditionally devoted to others\\n and willing to serve anyone.>",
         "params": [
             0,
             0,
@@ -24260,7 +24260,7 @@
         ],
         "iconIndex": 567,
         "name": "Believing Heart",
-        "note": "<hint:はじめから所持している>\n<initial>\n<en:Faith>\n<enDesc:Thinks all people are honest and\\n trusts others too easily.>",
+        "note": "<hint:Initially Possessed>\n<initial>\n<en:Faith>\n<enDesc:Thinks all people are honest and\\n trusts others too easily.>",
         "params": [
             0,
             0,
@@ -24341,7 +24341,7 @@
         ],
         "iconIndex": 2028,
         "name": "Semen Drinking",
-        "note": "<hintId:900>\n<hint:口内射精される>\n<en:Cum drinking>\n<enDesc:Can drink cum.>\n<enHint:Receive an oral creampie.>",
+        "note": "<hintId:900>\n<hint:Oral Ejaculation>\n<en:Cum drinking>\n<enDesc:Can drink cum.>\n<enHint:Receive an oral creampie.>",
         "params": [
             0,
             0,
@@ -24368,7 +24368,7 @@
         ],
         "iconIndex": 1998,
         "name": "Urine Drinking",
-        "note": "<hintId:900>\n<hint:男のおしっこにふれ続ける>\n<en:Pee drinking>\n<enDesc:Can drink other people's pee.>\n<enHint:Continue touching a man's pee.>\n",
+        "note": "<hintId:900>\n<hint:Continual Contact with a Man's Urine>\n<en:Pee drinking>\n<enDesc:Can drink other people's pee.>\n<enHint:Continue touching a man's pee.>\n",
         "params": [
             0,
             0,
@@ -24395,7 +24395,7 @@
         ],
         "iconIndex": 2028,
         "name": "Deep Throat",
-        "note": "<hintId:900>\n<hint:フェラをする>\n<en:Deepthroat>\n<enDesc:Can take the entire penis into the mouth\\n until it reaches the back of the throat.>\n<enHint:Give a blowjob.>",
+        "note": "<hintId:900>\n<hint:Perform Fellatio>\n<en:Deepthroat>\n<enDesc:Can take the entire penis into the mouth\\n until it reaches the back of the throat.>\n<enHint:Give a blowjob.>",
         "params": [
             0,
             0,
@@ -24422,7 +24422,7 @@
         ],
         "iconIndex": 2085,
         "name": "Prostitution",
-        "note": "<hintId:900>\n<hint:酒場のイベントをすすめる>\n<en:Prostitution>\n<enDesc:When wearing H clothing, can invite \\nadventures from the village to have sex.>\n<enHint:Recommend an event at the tavern.>",
+        "note": "<hintId:900>\n<hint:Advance the Tavern Event>\n<en:Prostitution>\n<enDesc:When wearing H clothing, can invite \\nadventures from the village to have sex.>\n<enHint:Recommend an event at the tavern.>",
         "params": [
             0,
             0,
@@ -24611,7 +24611,7 @@
         ],
         "iconIndex": 1957,
         "name": "Masochist",
-        "note": "<hint:SM系のプレイを何度も行う>\n<en:Masochist>\n<enDesc:Can feel pleasure in SM play.>\n<enHint:Repeatedly perform SM play.>",
+        "note": "<hint:Perform SM Play Multiple Times>\n<en:Masochist>\n<enDesc:Can feel pleasure in SM play.>\n<enHint:Repeatedly perform SM play.>",
         "params": [
             0,
             0,
@@ -24638,7 +24638,7 @@
         ],
         "iconIndex": 2090,
         "name": "Exhibitionist Wandering",
-        "note": "<hintId:900>\n<hint:裸で外出するプレイをする>\n<en:Public Nudity>\n<enDesc:Can remove all clothes \\non the Change Clothing screen.>\n<enHint:Go outside naked.>",
+        "note": "<hintId:900>\n<hint:Play Going Out Naked>\n<en:Public Nudity>\n<enDesc:Can remove all clothes \\non the Change Clothing screen.>\n<enHint:Go outside naked.>",
         "params": [
             0,
             0,
@@ -24665,7 +24665,7 @@
         ],
         "iconIndex": 2001,
         "name": "Anal Sex",
-        "note": "<hintId:900>\n<hint:アナルセックスをする>\n<en:Anal Sex>\n<enDesc:Can provide service with her asshole.>\n<enHint:Have anal sex.>",
+        "note": "<hintId:900>\n<hint:Perform Anal Sex>\n<en:Anal Sex>\n<enDesc:Can provide service with her asshole.>\n<enHint:Have anal sex.>",
         "params": [
             0,
             0,
@@ -24692,7 +24692,7 @@
         ],
         "iconIndex": 1993,
         "name": "Lactation Play",
-        "note": "<hintId:900>\n<hint:赤ん坊に母乳を与える>\n<en:Breastfeeding Play>\n<enDesc:Can breastfeed a man.>\n<enHint:Breastfeed a baby.>",
+        "note": "<hintId:900>\n<hint:Breastfeed the Baby>\n<en:Breastfeeding Play>\n<enDesc:Can breastfeed a man.>\n<enHint:Breastfeed a baby.>",
         "params": [
             0,
             0,
@@ -25043,7 +25043,7 @@
         ],
         "iconIndex": 2007,
         "name": "Handjob",
-        "note": "<hint:はじめから所持している>\n<order:903>\n<en:Handjob>\n<enDesc:Can provide service with her hands.>",
+        "note": "<hint:Possessed from the Start>\n<order:903>\n<en:Handjob>\n<enDesc:Can provide service with her hands.>",
         "params": [
             0,
             0,
@@ -25070,7 +25070,7 @@
         ],
         "iconIndex": 404,
         "name": "Orgasm",
-        "note": "<hint:絶頂に達する>\n<enHint:Reach climax.>\n<en:Orgasm>\n<enDesc:Reaching climax and knowing how to cum.>",
+        "note": "<hint:Reach Climax>\n<enHint:Reach climax.>\n<en:Orgasm>\n<enDesc:Reaching climax and knowing how to cum.>",
         "params": [
             0,
             0,
@@ -25097,7 +25097,7 @@
         ],
         "iconIndex": 0,
         "name": "Fellatio",
-        "note": "<hint:口で奉仕したことがある>\n<enHint:Can provide service with her mouth.>\n<en:Blowjob>\n<enDesc:Can provide service with her mouth.>",
+        "note": "<hint:Oral Service Experience>\n<enHint:Can provide service with her mouth.>\n<en:Blowjob>\n<enDesc:Can provide service with her mouth.>",
         "params": [
             0,
             0,
@@ -25124,7 +25124,7 @@
         ],
         "iconIndex": 0,
         "name": "Group Play",
-        "note": "<hint:複数人と同時にHした>\n<en:Orgy>\n<enDesc:Can have sex with multiple people\\n at the same time.>\n<enHint:Have sex with multiple people at the same time.>",
+        "note": "<hint:Group Play>\n<en:Orgy>\n<enDesc:Can have sex with multiple people\\n at the same time.>\n<enHint:Have sex with multiple people at the same time.>",
         "params": [
             0,
             0,

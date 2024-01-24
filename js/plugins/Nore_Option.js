@@ -27,10 +27,10 @@ Window_Options.prototype.statusText = function (index) {
   }
 };
 Window_Options.prototype.languageStatusText = function (value) {
-  return value ? "En(Partial)" : "Japanese";
+  return "Japanese";
 };
 Window_Options.prototype.isLanguageSymbol = function (symbol) {
-  return symbol == "en";
+  return symbol == "ja";
 };
 Window_Options.prototype.changeValue = function (symbol, value) {
   var lastValue = this.getConfigValue(symbol);
@@ -40,7 +40,7 @@ Window_Options.prototype.changeValue = function (symbol, value) {
     this.playCursorSound();
     if (symbol == "en") {
       if (value) {
-        ConfigManager.en = true;
+        ConfigManager.en = false;
       } else {
         ConfigManager.en = false;
       }
@@ -56,7 +56,7 @@ Scene_Options.prototype.createOptionsWindow = function () {
 };
 Scene_Options.prototype.onLanguage = function () {
   if (ConfigManager.en) {
-    vocabEn();
+    vocabJp();
   } else {
     vocabJp();
   }

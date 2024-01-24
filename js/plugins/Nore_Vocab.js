@@ -54,7 +54,7 @@ function vocabJp() {
   TextManager.keikenPerson = "Partners";
   TextManager.notEnoughPan = "Not enough bread";
   TextManager.notEnoughWine = "Not enough grape wine";
-  TextManager.condition = "Acquisition Condition: ";
+  TextManager.condition = "Acquisition: ";
   TextManager.gaugeCondition = "\\C[16]Gauge Increase Condition: \\C[0]";
   TextManager.gaugeUp = "Fetish Acquisition Gauge Increased‼︎";
   TextManager.anal = "Anal";
