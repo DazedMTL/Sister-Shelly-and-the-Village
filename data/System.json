@@ -1407,7 +1407,7 @@
             "Agility",
             "Fatigue",
             "Accuracy",
-            "Evasion Rate"
+            "Evasion"
         ],
         "messages": {
             "alwaysDash": "Always Dash",
