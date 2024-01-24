@@ -54,8 +54,8 @@ function vocabJp() {
   TextManager.keikenPerson = "Partners";
   TextManager.notEnoughPan = "Not enough bread";
   TextManager.notEnoughWine = "Not enough grape wine";
-  TextManager.condition = "Acquisition: ";
-  TextManager.gaugeCondition = "\\C[16]Gauge Increase Condition: \\C[0]";
+  TextManager.condition = "Condition: ";
+  TextManager.gaugeCondition = "\\C[16]Gauge Increase: \\C[0]";
   TextManager.gaugeUp = "Fetish Acquisition Gauge Increased‼︎";
   TextManager.anal = "Anal";
   TextManager.bukkake = "Bukkake";
@@ -201,11 +201,11 @@ function vocabJp() {
     5: "Recognized by oneself and others as a gaping pussy\nPoor Leo",
   };
   ANAL_TIGHTENING = {
-    1: "Tight anal.\nAlmost no experience",
-    2: "Tight anal that's still hard to penetrate,\ngood tightening",
-    3: "Slightly seasoned butthole.\nAmateur anal no more",
-    4: "Loose anal.\nA few in town level",
-    5: "Gaping anal.\nOne of the few in the country level",
+    1: "Tight asshole.\nAlmost no experience",
+    2: "Tight asshole that's still hard to penetrate,\ngood tightening",
+    3: "Slightly seasoned butthole.\nAmateur asshole no more",
+    4: "Loose asshole.\nA few in town level",
+    5: "Gaping asshole.\nOne of the few in the country level",
   };
   ACTOR_RERLATION_MAP = {
     "4_1": { desc: "Lover" },

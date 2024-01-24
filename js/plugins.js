@@ -227,24 +227,24 @@ var $plugins = [
       mapperDelete: '{"en":"delete","jp":"設定を消去"}',
       extendsMapper: "[]",
       GamepadIsNotConnectedText:
-        '{"jp":"\\"ゲームパッドが接続されていません\\\\nボタンを押して再度試してください\\"","en":"\\"The gamepad is not connected.\\\\nPress the button and try again.\\""}',
+        '{"jp":"\\"Gamepad is not connected\\\\nPress the button and try again\\"","en":"\\"The gamepad is not connected.\\\\nPress the button and try again.\\""}',
       needButtonDetouchText:
-        '{"jp":"\\"コンフィグを終了するために、\\\\nボタンから手を放してください。\\"","en":"\\"Release the button to exit the config.\\""}',
+        '{"jp":"\\"To exit,\\\\nrelease the N key\\"","en":"\\"Release the button to exit the config.\\""}',
       apply:
-        '{"width":"4","text":"{\\"jp\\":\\"設定を保存\\",\\"en\\":\\"save settings\\"}"}',
+        '{"width":"4","text":"{\\"jp\\":\\"Save\\",\\"en\\":\\"save settings\\"}"}',
       rollback:
-        '{"width":"4","text":"{\\"jp\\":\\"変更前に戻す\\",\\"en\\":\\"rollback\\"}"}',
+        '{"width":"4","text":"{\\"jp\\":\\"Revert\\",\\"en\\":\\"rollback\\"}"}',
       reset:
-        '{"width":"4","text":"{\\"jp\\":\\"初期設定に戻す\\",\\"en\\":\\"reset\\"}"}',
+        '{"width":"4","text":"{\\"jp\\":\\"Reset\\",\\"en\\":\\"reset\\"}"}',
       WASD: '{"width":"3","text":"{\\"jp\\":\\"WASD\\",\\"en\\":\\"WASD\\"}"}',
       style:
-        '{"width":"3","text":"{\\"jp\\":\\"設定方法変更\\",\\"en\\":\\"Change setting style\\"}"}',
+        '{"width":"3","text":"{\\"jp\\":\\"Change style\\",\\"en\\":\\"Change setting style\\"}"}',
       changeLayout:
         '{"width":"3","text":"{\\"jp\\":\\"JIS/US\\",\\"en\\":\\"JIS/US\\"}"}',
       exit: '{"width":"3","text":"{\\"jp\\":\\"やめる\\",\\"en\\":\\"exit\\"}"}',
       gamepadConfigCommandText:
-        '{"en":"gamepad config","jp":"ゲームパッドコンフィグ"}',
-      keyConfigCommandText: '{"en":"keyboard config","jp":"キーコンフィグ"}',
+        '{"en":"gamepad config","jp":"Gamepad"}',
+      keyConfigCommandText: '{"en":"keyboard config","jp":"Keyboard"}',
       gamepadBackground: "",
       keyBackground: "",
       SettingsForYEP_OptionsCore: '{"gamepad":"true","Keyboard":"true"}',
@@ -259,40 +259,40 @@ var $plugins = [
     parameters: {
       color: '{"normal":"#880000","mandatory":"#22e488","move":"#22e488"}',
       basicOk:
-        '{"name":"{\\"jp\\":\\"決定\\",\\"en\\":\\"OK\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
+        '{"name":"{\\"jp\\":\\"OK\\",\\"en\\":\\"OK\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
       basicCancel:
-        '{"name":"{\\"jp\\":\\"キャンセル\\",\\"en\\":\\"cancel\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
+        '{"name":"{\\"jp\\":\\"Cancel\\",\\"en\\":\\"cancel\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
       basicShift:
-        '{"name":"{\\"jp\\":\\"ダッシュ\\",\\"en\\":\\"dash\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
+        '{"name":"{\\"jp\\":\\"Dash\\",\\"en\\":\\"dash\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
       basicMenu:
-        '{"name":"{\\"jp\\":\\"メニュー\\",\\"en\\":\\"menu\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
+        '{"name":"{\\"jp\\":\\"Menu\\",\\"en\\":\\"menu\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
       basicEscape:
-        '{"name":"{\\"jp\\":\\"メニュー/キャンセル\\",\\"en\\":\\"menu/cancel\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
+        '{"name":"{\\"jp\\":\\"Menu/Cancel\\",\\"en\\":\\"menu/cancel\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
       basicPageup:
-        '{"name":"{\\"jp\\":\\"次\\",\\"en\\":\\"next\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
+        '{"name":"{\\"jp\\":\\"Next\\",\\"en\\":\\"next\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
       basicPagedown:
-        '{"name":"{\\"jp\\":\\"前\\",\\"en\\":\\"prev\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
-      mapperDelete: '{"en":"delete","jp":"設定を消去"}',
+        '{"name":"{\\"jp\\":\\"Prev\\",\\"en\\":\\"prev\\"}","keyText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}","helpText":"{\\"jp\\":\\"\\",\\"en\\":\\"\\"}"}',
+      mapperDelete: '{"en":"delete","jp":"Delete"}',
       extendsMapper: "[]",
       GamepadIsNotConnectedText:
-        '{"jp":"\\"ゲームパッドが接続されていません\\\\nボタンを押して再度試してください\\"","en":"\\"The gamepad is not connected.\\\\nPress the button and try again.\\""}',
+        '{"jp":"\\"The gamepad is not connected.\\\\nPress the button and try again.\\"","en":"\\"The gamepad is not connected.\\\\nPress the button and try again.\\""}',
       needButtonDetouchText:
-        '{"jp":"\\"コンフィグを終了するために、\\\\nボタンから手を放してください。\\"","en":"\\"Release the button to exit the config.\\""}',
+        '{"jp":"\\"Release the button to exit the config."","en":"\\"Release the button to exit the config.\\""}',
       apply:
-        '{"width":"4","text":"{\\"jp\\":\\"設定を保存\\",\\"en\\":\\"save settings\\"}"}',
+        '{"width":"4","text":"{\\"jp\\":\\"Save\\",\\"en\\":\\"save settings\\"}"}',
       rollback:
-        '{"width":"4","text":"{\\"jp\\":\\"変更前に戻す\\",\\"en\\":\\"rollback\\"}"}',
+        '{"width":"4","text":"{\\"jp\\":\\"Revert\\",\\"en\\":\\"rollback\\"}"}',
       reset:
-        '{"width":"4","text":"{\\"jp\\":\\"初期設定に戻す\\",\\"en\\":\\"reset\\"}"}',
+        '{"width":"4","text":"{\\"jp\\":\\"Reset\\",\\"en\\":\\"reset\\"}"}',
       WASD: '{"width":"3","text":"{\\"jp\\":\\"WASD\\",\\"en\\":\\"WASD\\"}"}',
       style:
-        '{"width":"3","text":"{\\"jp\\":\\"設定方法変更\\",\\"en\\":\\"Change setting style\\"}"}',
+        '{"width":"3","text":"{\\"jp\\":\\"Change style\\",\\"en\\":\\"Change setting style\\"}"}',
       changeLayout:
         '{"width":"3","text":"{\\"jp\\":\\"JIS/US\\",\\"en\\":\\"JIS/US\\"}"}',
-      exit: '{"width":"3","text":"{\\"jp\\":\\"やめる\\",\\"en\\":\\"exit\\"}"}',
+      exit: '{"width":"3","text":"{\\"jp\\":\\"Exit\\",\\"en\\":\\"exit\\"}"}',
       gamepadConfigCommandText:
-        '{"en":"gamepad config","jp":"ゲームパッドコンフィグ"}',
-      keyConfigCommandText: '{"en":"keyboard config","jp":"キーコンフィグ"}',
+        '{"en":"gamepad config","jp":"Gamepad"}',
+      keyConfigCommandText: '{"en":"keyboard config","jp":"Keyboard"}',
       gamepadBackground: "",
       keyBackground: "",
       SettingsForYEP_OptionsCore: '{"gamepad":"true","Keyboard":"true"}',
