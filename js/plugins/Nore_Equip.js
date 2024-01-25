@@ -168,7 +168,7 @@ var Nore;
       }
       this.contents.fontSize = 20;
       this.drawText(
-        "売却価格　　" + equip.sellPrice() + " G",
+        "Price　　" + equip.sellPrice() + " G",
         60,
         258,
         200,
@@ -401,7 +401,7 @@ var Nore;
       var sprite = new PIXI.Sprite(texture);
       sprite.x = 80;
       if (ConfigManager.en) {
-        sprite.x = 70;
+        sprite.x = 80;
       }
       sprite.y = 130;
       this.addChild(sprite);

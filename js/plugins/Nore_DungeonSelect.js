@@ -424,15 +424,15 @@ var Nore;
       var en = ConfigManager.en;
       switch (type) {
         case DamageBonusEnum.yadoya:
-          return en ? "Meal" : "食事";
+          return en ? "Meal" : "Meal";
         case DamageBonusEnum.leoFela:
-          return en ? "Blowjob" : "レオにフェラ";
+          return en ? "Blowjob" : "Blowjob";
         case DamageBonusEnum.leoIntimacy:
-          return en ? "Leo Intimacy" : "レオとの友好度";
+          return en ? "Leo Intimacy" : "Leo Intimacy";
         case DamageBonusEnum.item:
-          return en ? "Prayer Tool" : "祈祷具";
+          return en ? "Prayer Tool" : "Prayer Tool";
         case DamageBonusEnum.syusan:
-          return en ? "Childbirth" : "出産";
+          return en ? "Childbirth" : "Childbirth";
       }
       return "www";
     };
